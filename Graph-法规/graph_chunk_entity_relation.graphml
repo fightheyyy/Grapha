@@ -1,0 +1,812 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="order" attr.type="long"/>
+<key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="description" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="clusters" attr.type="string"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;住房和城乡建设部&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"住房和城乡建设部 is a Chinese government department responsible for the regulation and supervision of registered architects, including examinations, registration, and continuing education."</data>
+  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;中华人民共和国注册建筑师条例实施细则&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"中华人民共和国注册建筑师条例实施细则 is a set of detailed rules and regulations governing the examination, registration, practice, and continuing education of registered architects in China."</data>
+  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;全国注册建筑师管理委员会&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A national-level organization responsible for managing the registration and certification of architects in China, including issuing and revoking registration certificates and seals."&lt;SEP&gt;"全国注册建筑师管理委员会 is a national organization responsible for approving and issuing first-level registered architect registration certificates and practicing seals."&lt;SEP&gt;"全国注册建筑师管理委员会 is responsible for the examination and registration of first-level registered architects, setting standards, and international exchanges related to registered architects."&lt;SEP&gt;"全国注册建筑师管理委员会 is the national committee that sets standards for registered architects, including continuing education requirements."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+</node>
+<node id="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Regional-level organizations responsible for managing the registration and certification of architects in their respective provinces, autonomous regions, or municipalities, including issuing and revoking registration certificates and seals."&lt;SEP&gt;"省、自治区、直辖市注册建筑师管理委员会 is a regional organization responsible for issuing second-level registered architect qualification certificates and handling registration applications."&lt;SEP&gt;"省、自治区、直辖市注册建筑师管理委员会 is responsible for the examination and registration of registered architects within their respective administrative regions and assists the national committee in selecting experts."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+</node>
+<node id="&quot;国务院建设主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"国务院建设主管部门 is a government department that provides guidance and supervision for the examination, registration, practice, and continuing education of registered architects nationwide."&lt;SEP&gt;"国务院建设主管部门 is a government organization responsible for issuing the first-level registered architect qualification certificates in collaboration with the personnel department."&lt;SEP&gt;"国务院建设主管部门 is the central government authority responsible for the supervision and management of registered architects and their activities."&lt;SEP&gt;"国务院建设主管部门负责制定注册建筑师的相关政策和规定，包括高等学校注册建筑师的具体管理办法。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;人事主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"人事主管部门 is a government department that collaborates with the construction department to supervise and guide the examination, registration, practice, and continuing education of registered architects."&lt;SEP&gt;"人事主管部门 is a government organization responsible for issuing the first-level registered architect qualification certificates in collaboration with the construction department."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;中华人民共和国&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The People's Republic of China, the country where the architectural registration and certification regulations are enforced."&lt;SEP&gt;"中华人民共和国 is the country where the regulations for registered architects are implemented."&lt;SEP&gt;"中华人民共和国 is the geographical region where the construction, design, and other related activities are regulated and practiced."&lt;SEP&gt;"中华人民共和国是注册建筑师执业活动的法定地域范围，所有执业活动必须在其境内进行。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;建设部执业资格注册中心&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"建设部执业资格注册中心 hosts the secretariat of the National Registered Architect Management Committee and handles its daily operations."</data>
+  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+</node>
+<node id="&quot;一级注册建筑师&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Class 1 registered architects whose certificates and seals are issued by the national committee."&lt;SEP&gt;"一级注册建筑师 are professional architects who have passed the national first-level examination and obtained certification."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+</node>
+<node id="&quot;二级注册建筑师&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Class 2 registered architects whose certificates and seals are issued by provincial committees."&lt;SEP&gt;"二级注册建筑师 are professional architects who have passed the provincial-level examination and obtained certification."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+</node>
+<node id="&quot;注册建筑师考试&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"注册建筑师考试 is an event where individuals take exams to qualify as registered architects."&lt;SEP&gt;"注册建筑师考试 is the national examination system for certifying architects at different levels, conducted annually."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+</node>
+<node id="&quot;建筑设计专家&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"建筑设计专家 are experts in architectural design who serve as members of the National Registered Architect Management Committee."</data>
+  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+</node>
+<node id="&quot;国务院&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"国务院 is the central government body that oversees the implementation of architect registration regulations."</data>
+  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;一级注册建筑师执业资格证书&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"一级注册建筑师执业资格证书 is an event where a first-level registered architect qualification certificate is issued by the construction and personnel departments."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+</node>
+<node id="&quot;二级注册建筑师执业资格证书&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"二级注册建筑师执业资格证书 is an event where a second-level registered architect qualification certificate is issued by the regional architect management committee."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+</node>
+<node id="&quot;初始注册&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"初始注册 is an event where qualified individuals apply for initial registration as architects."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;延续注册&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"延续注册 is an event where registered architects apply to extend their registration."&lt;SEP&gt;"延续注册 refers to the renewal registration process for architects."&lt;SEP&gt;"延续注册是注册建筑师在注册有效期届满前申请延长执业资格的程序，需提交相关材料。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;变更注册&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"变更注册 is an event where registered architects apply to change their registration details."&lt;SEP&gt;"变更注册是注册建筑师更换执业单位时需要办理的手续，需提交新聘用单位的相关材料。"</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;聘用单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Employing organizations that hire registered architects and may face penalties for violations."&lt;SEP&gt;"聘用单位 refers to the employing unit (e.g., construction, design, or consulting firms) where registered architects are legally employed."&lt;SEP&gt;"聘用单位是与注册建筑师签订劳动合同并为其提供执业资质的单位，其资质和状态直接影响注册建筑师的有效性。"</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;中华人民共和国境内&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"中华人民共和国境内 is the geographical scope where registered architects must work to qualify for registration."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;建设工程勘察、设计、施工、监理、招标代理、造价咨询、施工图审查、城乡规划编制等单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"These are specific types of organizations (e.g., survey, design, construction, supervision, bidding agencies, cost consulting, etc.) where registered architects can be employed."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;继续教育要求&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"继续教育要求 is the mandatory continuing education requirement for architects to maintain or renew their registration."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;执业印章&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Practicing seals issued to registered architects as part of certification."&lt;SEP&gt;"执业印章 is the official seal issued to registered architects as proof of their legal practicing status."&lt;SEP&gt;"执业印章是注册建筑师从事执业活动的专用印章，与注册证书同等重要。"</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;注册证书&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"注册证书 is the official certificate issued to registered architects, validating their professional status."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+</node>
+<node id="&quot;初始注册申请表&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"初始注册申请表 is the application form submitted by architects for initial registration."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;延续注册申请表&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"延续注册申请表 is the application form submitted by architects to extend their registration."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;业绩证明&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"业绩证明 refers to the proof of professional performance required for architect registration or renewal."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;公示&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"公示 is the public announcement of registration approval results by the national committee."</data>
+  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+</node>
+<node id="&quot;注册建筑师&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"注册建筑师 refers to registered architects who are qualified to engage in specific professional activities within the construction and design industry."&lt;SEP&gt;"注册建筑师是需要进行注册并满足继续教育要求的专业人士，其注册有效期和执业活动受到严格规定。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;注册机关&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"注册机关负责处理注册建筑师的注册、延续、变更、注销等手续，并监督其执业活动。"</data>
+  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;高等学校（院）&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"高等学校（院）是从事教学和科研的机构，其所属建筑设计单位可以聘用具有注册建筑师资格的人员。"</data>
+  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;注册有效期&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"注册有效期是注册建筑师可以合法执业的时间段，期满需延续注册，否则失效。"</data>
+  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;注销注册&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"注销注册是注册建筑师因特定情形失去执业资格后，由注册机关办理的手续。"</data>
+  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;注册建筑师注册&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"注册建筑师注册是建筑师获得执业资格的必要程序，需满足特定条件并通过审核。"</data>
+  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+</node>
+<node id="&quot;继续教育&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"继续教育 is a mandatory continuing education program for registered architects to maintain their qualifications, including必修课 and 选修课."&lt;SEP&gt;"继续教育是注册建筑师在注册期内必须完成的学习要求，用于延续注册资格。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;资质证书&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"资质证书是聘用单位具备相应工程设计资质的证明文件，影响注册建筑师的执业有效性。"</data>
+  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;城乡规划编制单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"城乡规划编制单位 refers to urban and rural planning organizations that must employ registered professionals."&lt;SEP&gt;"城乡规划编制单位是可以聘用注册建筑师从事执业活动的单位类型之一。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+</node>
+<node id="&quot;建设工程勘察单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"建设工程勘察单位 refers to organizations engaged in construction project survey activities within China."&lt;SEP&gt;"建设工程勘察单位是可以聘用注册建筑师从事执业活动的单位类型之一。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;设计单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"设计单位 refers to design organizations that must employ registered architects for construction design work."&lt;SEP&gt;"设计单位是可以聘用注册建筑师从事建筑工程设计执业活动的具有工程设计资质的单位。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;县级以上地方人民政府建设主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"县级以上地方人民政府建设主管部门 refers to local construction authorities supervising architect activities."&lt;SEP&gt;"县级以上地方人民政府建设主管部门负责监督注册建筑师的执业活动并及时告知注册机关相关情况。"</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;工程设计资质单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"工程设计资质单位 refers to organizations with the necessary qualifications to engage in engineering design activities, where registered architects must be employed."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;施工单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"施工单位 refers to construction companies that must comply with designs approved by registered architects."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;监理单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"监理单位 refers to supervision organizations overseeing construction project quality and compliance."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;招标代理单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"招标代理单位 refers to bidding agencies involved in construction project tenders."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;造价咨询单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"造价咨询单位 refers to cost consulting firms providing construction project cost estimates."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;施工图审查单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"施工图审查单位 refers to organizations responsible for reviewing construction drawings."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;注册建筑师管理委员会&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"注册建筑师管理委员会 refers to committees at provincial levels that oversee architect registration."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+</node>
+<node id="&quot;建设单位&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"建设单位 refers to project owners who must submit architect-approved designs for construction."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;设计审查部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"设计审查部门 refers to design review departments that validate architect-certified plans."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;必修课&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"必修课 refers to mandatory courses in the continuing education program for architects."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;选修课&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"选修课 refers to elective courses in the continuing education program for architects."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
+</node>
+<node id="&quot;逾期初始注册&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"逾期初始注册 refers to late initial registration process for architects."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;重新申请注册&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"重新申请注册 refers to re-application for registration by architects."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;监督检查&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"监督检查 refers to supervision and inspection activities conducted by construction authorities."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+</node>
+<node id="&quot;行政处罚&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"行政处罚 refers to administrative penalties imposed on non-compliant architects or firms."</data>
+  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;县级以上人民政府建设主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Local government departments at the county level or above responsible for construction-related administration, including enforcing penalties for violations of architectural regulations."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+</node>
+<node id="&quot;国务院人事主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A national-level department under the State Council responsible for the unified production of architect qualification certificates."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;X住房和城乡建设部&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Ministry of Housing and Urban-Rural Development, responsible for issuing and enforcing regulations related to architectural practices in China."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;香港特别行政区、澳门特别行政区、台湾地区的专业技术人员&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Professional technicians from Hong Kong, Macau, and Taiwan who can participate in national unified exams and apply for registration according to relevant agreements."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;外籍专业技术人员&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Foreign professional technicians who can participate in national unified exams and apply for architect registration based on reciprocal agreements with their home countries."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;香港特别行政区&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Hong Kong Special Administrative Region, whose professional technicians can participate in national exams and registration under specific agreements."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;澳门特别行政区&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Macau Special Administrative Region, whose professional technicians can participate in national exams and registration under specific agreements."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;台湾地区&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Taiwan region, whose professional technicians can participate in national exams and registration under specific agreements."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;注册建筑师执业资格证书&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event involving the issuance of architect qualification certificates by the national personnel authority."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;全国统一考试&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A national unified examination for architects that professional technicians from Hong Kong, Macau, Taiwan, and foreign countries can participate in under specific conditions."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;建设部&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Former ministry responsible for architectural regulations in China, which issued the now-repealed 1996 regulations."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;《中华人民共和国注册建筑师条例实施细则》&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The 1996 implementation rules for registered architects in China that were repealed in 2008."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;建设部令第52号&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The ministerial order number associated with the 1996 implementation rules for registered architects."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<node id="&quot;申请人&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Individuals applying for architect registration and certification."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;县级以上人民政府人事主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Local government personnel departments at county level or above involved in architect management."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+</node>
+<node id="&quot;互认资格证书&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Mutual recognition qualification certificates issued for architects under reciprocal agreements."</data>
+  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+</node>
+<edge source="&quot;住房和城乡建设部&quot;" target="&quot;中华人民共和国注册建筑师条例实施细则&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"住房和城乡建设部 issued the 中华人民共和国注册建筑师条例实施细则 to regulate the activities of registered architects."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;中华人民共和国注册建筑师条例实施细则&quot;" target="&quot;中华人民共和国&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The 中华人民共和国注册建筑师条例实施细则 applies within the jurisdiction of 中华人民共和国."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;">
+  <data key="d4">25.0</data>
+  <data key="d5">"Both organizations are responsible for managing architect registration and certification, with the former at the national level and the latter at regional levels."&lt;SEP&gt;"全国注册建筑师管理委员会 oversees the work of 省、自治区、直辖市注册建筑师管理委员会 in administering examinations and registrations."&lt;SEP&gt;"省、自治区、直辖市注册建筑师管理委员会 submits initial registration applications to 全国注册建筑师管理委员会 for approval."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;国务院建设主管部门&quot;">
+  <data key="d4">15.0</data>
+  <data key="d5">"国务院建设主管部门 appoints members to 全国注册建筑师管理委员会 and collaborates with it on regulatory matters."&lt;SEP&gt;"国务院建设主管部门 collaborates with 全国注册建筑师管理委员会 to regulate and manage the professional standards of registered architects."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;人事主管部门&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"人事主管部门 collaborates with 国务院建设主管部门 to appoint members to 全国注册建筑师管理委员会."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;建设部执业资格注册中心&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The secretariat of 全国注册建筑师管理委员会 is located at 建设部执业资格注册中心."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;建筑设计专家&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"建筑设计专家 are part of the composition of 全国注册建筑师管理委员会."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;一级注册建筑师执业资格证书&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"全国注册建筑师管理委员会 is responsible for approving and issuing first-level registered architect registration certificates."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;执业印章&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"全国注册建筑师管理委员会 issues the 执业印章 to approved registered architects."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;注册证书&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"全国注册建筑师管理委员会 issues the 注册证书 to approved registered architects."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;公示&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"全国注册建筑师管理委员会 conducts 公示 to publicly announce registration approvals."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;注册建筑师&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"全国注册建筑师管理委员会 sets the continuing education standards and other professional requirements for 注册建筑师."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;注册建筑师管理委员会&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"全国注册建筑师管理委员会 coordinates with provincial 注册建筑师管理委员会 for registration matters."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;县级以上人民政府建设主管部门&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Local construction departments enforce penalties for violations, while the national committee oversees registration and certification."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;一级注册建筑师&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The national committee issues registration certificates and seals for Class 1 architects."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;" target="&quot;二级注册建筑师执业资格证书&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"省、自治区、直辖市注册建筑师管理委员会 is responsible for issuing second-level registered architect qualification certificates."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;" target="&quot;二级注册建筑师&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Provincial committees issue registration certificates and seals for Class 2 architects."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院建设主管部门&quot;" target="&quot;人事主管部门&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"国务院建设主管部门 and 人事主管部门 collaborate to issue first-level registered architect qualification certificates."&lt;SEP&gt;"国务院建设主管部门 and 人事主管部门 work together to supervise and guide the examination, registration, practice, and continuing education of registered architects."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院建设主管部门&quot;" target="&quot;国务院&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"国务院建设主管部门 operates under the authority of 国务院."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院建设主管部门&quot;" target="&quot;高等学校（院）&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"国务院建设主管部门与教育主管部门共同制定高等学校注册建筑师的具体管理办法。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院建设主管部门&quot;" target="&quot;注册建筑师&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"国务院建设主管部门 oversees the registration and professional activities of 注册建筑师, ensuring compliance with regulations."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院建设主管部门&quot;" target="&quot;县级以上地方人民政府建设主管部门&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"国务院建设主管部门 provides unified supervision over 县级以上地方人民政府建设主管部门."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院建设主管部门&quot;" target="&quot;行政处罚&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"国务院建设主管部门 has authority to impose 行政处罚 for regulatory violations."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;中华人民共和国&quot;" target="&quot;注册建筑师&quot;">
+  <data key="d4">16.0</data>
+  <data key="d5">"注册建筑师 must be registered and employed within 中华人民共和国 to practice their profession legally."&lt;SEP&gt;"注册建筑师的执业活动必须在中华人民共和国境内进行。"</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;中华人民共和国&quot;" target="&quot;建设工程勘察单位&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"建设工程勘察单位 must operate within the legal framework of 中华人民共和国."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;中华人民共和国&quot;" target="&quot;X住房和城乡建设部&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The Ministry of Housing and Urban-Rural Development operates within the People's Republic of China to enforce architectural regulations."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;一级注册建筑师&quot;" target="&quot;注册建筑师考试&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"一级注册建筑师 must pass the 注册建筑师考试 to obtain certification."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;二级注册建筑师&quot;" target="&quot;注册建筑师考试&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"二级注册建筑师 must pass the 注册建筑师考试 to obtain certification."</data>
+  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师考试&quot;" target="&quot;一级注册建筑师执业资格证书&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"注册建筑师考试 is the prerequisite for obtaining a 一级注册建筑师执业资格证书."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师考试&quot;" target="&quot;二级注册建筑师执业资格证书&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"注册建筑师考试 is the prerequisite for obtaining a 二级注册建筑师执业资格证书."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;初始注册&quot;" target="&quot;延续注册&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"初始注册 and 延续注册 are both processes for maintaining registered architect status, with 延续注册 following the expiration of the initial registration."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;初始注册&quot;" target="&quot;初始注册申请表&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"初始注册申请表 is submitted as part of the 初始注册 process."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;初始注册&quot;" target="&quot;业绩证明&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"业绩证明 is required as supporting material for 初始注册 applications."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;延续注册&quot;" target="&quot;变更注册&quot;">
+  <data key="d4">12.0</data>
+  <data key="d5">"变更注册 and 延续注册 are both processes for updating registered architect details, with 延续注册 focusing on extending the registration period."&lt;SEP&gt;"在变更注册时，若原注册有效期将届满，可同时申请延续注册。"</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;延续注册&quot;" target="&quot;继续教育要求&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Fulfilling 继续教育要求 is mandatory to apply for 延续注册."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;延续注册&quot;" target="&quot;延续注册申请表&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"延续注册申请表 is submitted as part of the 延续注册 process."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;延续注册&quot;" target="&quot;业绩证明&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"业绩证明 may be required as supporting material for 延续注册 applications."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;延续注册&quot;" target="&quot;注册有效期&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"注册有效期届满前需办理延续注册以继续执业。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;延续注册&quot;" target="&quot;继续教育&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"完成继续教育是申请延续注册的必要条件之一。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;变更注册&quot;" target="&quot;资质证书&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"变更注册时需要提交新聘用单位的资质证书副本复印件。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;聘用单位&quot;" target="&quot;中华人民共和国境内&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"聘用单位 must be located within 中华人民共和国境内 for architects to qualify for registration."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;聘用单位&quot;" target="&quot;建设工程勘察、设计、施工、监理、招标代理、造价咨询、施工图审查、城乡规划编制等单位&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"These organizations are all valid types of 聘用单位 for registered architects."</data>
+  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;聘用单位&quot;" target="&quot;注册建筑师&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"注册建筑师必须与聘用单位签订劳动合同，并在其资质下执业。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;聘用单位&quot;" target="&quot;注册机关&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"聘用单位需向注册机关提交相关材料以完成注册建筑师的注册或变更手续。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;聘用单位&quot;" target="&quot;资质证书&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"聘用单位必须持有有效的资质证书才能为注册建筑师提供执业资质。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;聘用单位&quot;" target="&quot;申请人&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Applicants are typically employed by organizations that may provide registration materials."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;执业印章&quot;" target="&quot;注册建筑师&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"注册建筑师需使用执业印章进行执业活动，遗失或污损需补办。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;执业印章&quot;" target="&quot;注销注册&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"注册建筑师被注销注册时需交回执业印章或公告作废。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;执业印章&quot;" target="&quot;注册建筑师执业资格证书&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Practicing seals are issued alongside qualification certificates to registered architects."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;注册机关&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"注册建筑师的所有注册手续均由注册机关处理，包括延续、变更和注销。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;注销注册&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"注册建筑师在特定情形下需办理注销注册，失去执业资格。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;继续教育&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"注册建筑师 are required to complete 继续教育 to maintain their registration and professional qualifications."&lt;SEP&gt;"注册建筑师必须在注册期内完成继续教育要求才能申请延续注册。"</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;设计单位&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"从事建筑工程设计的注册建筑师必须受聘并注册于具有工程设计资质的设计单位。"&lt;SEP&gt;"设计单位 must employ 注册建筑师 to legally conduct design work."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;工程设计资质单位&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"注册建筑师 must be employed by 工程设计资质单位 to legally engage in professional design activities."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;施工单位&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"施工单位 must follow designs approved and signed by 注册建筑师."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;监理单位&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"监理单位 oversees projects designed by 注册建筑师 to ensure compliance."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;必修课&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"注册建筑师 must complete 必修课 as part of their continuing education."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册建筑师&quot;" target="&quot;选修课&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"注册建筑师 must complete 选修课 as part of their continuing education."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;注册机关&quot;" target="&quot;县级以上地方人民政府建设主管部门&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"县级以上地方人民政府建设主管部门应及时将注册建筑师的相关情况告知注册机关。"</data>
+  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;建设单位&quot;" target="&quot;设计审查部门&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"建设单位 must submit designs to 设计审查部门 for approval before construction."</data>
+  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;县级以上人民政府建设主管部门&quot;" target="&quot;县级以上人民政府人事主管部门&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Both local departments collaborate on architect management, with personnel and construction divisions."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院人事主管部门&quot;" target="&quot;注册建筑师执业资格证书&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The national personnel authority is responsible for the unified production of architect qualification certificates."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;香港特别行政区、澳门特别行政区、台湾地区的专业技术人员&quot;" target="&quot;全国统一考试&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Professional technicians from these regions can participate in the national unified exams under specific agreements."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;外籍专业技术人员&quot;" target="&quot;全国统一考试&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Foreign professional technicians can participate in the national unified exams based on reciprocal agreements with their home countries."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;外籍专业技术人员&quot;" target="&quot;互认资格证书&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Foreign technicians may obtain mutual recognition certificates under reciprocal agreements."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;建设部&quot;" target="&quot;《中华人民共和国注册建筑师条例实施细则》&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The former ministry issued these implementation rules in 1996 before they were repealed."</data>
+  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>
