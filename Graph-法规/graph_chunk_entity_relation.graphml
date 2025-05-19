@@ -7,806 +7,1246 @@
 <key id="d2" for="node" attr.name="source_id" attr.type="string"/>
 <key id="d1" for="node" attr.name="description" attr.type="string"/>
 <key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
-<graph edgedefault="undirected"><node id="&quot;住房和城乡建设部&quot;">
+<graph edgedefault="undirected"><node id="&quot;中华人民共和国住房和城乡建设部&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"住房和城乡建设部 is a Chinese government department responsible for the regulation and supervision of registered architects, including examinations, registration, and continuing education."</data>
-  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+  <data key="d1">"The Ministry of Housing and Urban-Rural Development of the People's Republic of China is the government body responsible for issuing the regulations on the protection planning of historical and cultural cities, towns, villages, and blocks."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
 </node>
-<node id="&quot;中华人民共和国注册建筑师条例实施细则&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"中华人民共和国注册建筑师条例实施细则 is a set of detailed rules and regulations governing the examination, registration, practice, and continuing education of registered architects in China."</data>
-  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 3}]</data>
-</node>
-<node id="&quot;全国注册建筑师管理委员会&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"A national-level organization responsible for managing the registration and certification of architects in China, including issuing and revoking registration certificates and seals."&lt;SEP&gt;"全国注册建筑师管理委员会 is a national organization responsible for approving and issuing first-level registered architect registration certificates and practicing seals."&lt;SEP&gt;"全国注册建筑师管理委员会 is responsible for the examination and registration of first-level registered architects, setting standards, and international exchanges related to registered architects."&lt;SEP&gt;"全国注册建筑师管理委员会 is the national committee that sets standards for registered architects, including continuing education requirements."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
-</node>
-<node id="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"Regional-level organizations responsible for managing the registration and certification of architects in their respective provinces, autonomous regions, or municipalities, including issuing and revoking registration certificates and seals."&lt;SEP&gt;"省、自治区、直辖市注册建筑师管理委员会 is a regional organization responsible for issuing second-level registered architect qualification certificates and handling registration applications."&lt;SEP&gt;"省、自治区、直辖市注册建筑师管理委员会 is responsible for the examination and registration of registered architects within their respective administrative regions and assists the national committee in selecting experts."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
-</node>
-<node id="&quot;国务院建设主管部门&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"国务院建设主管部门 is a government department that provides guidance and supervision for the examination, registration, practice, and continuing education of registered architects nationwide."&lt;SEP&gt;"国务院建设主管部门 is a government organization responsible for issuing the first-level registered architect qualification certificates in collaboration with the personnel department."&lt;SEP&gt;"国务院建设主管部门 is the central government authority responsible for the supervision and management of registered architects and their activities."&lt;SEP&gt;"国务院建设主管部门负责制定注册建筑师的相关政策和规定，包括高等学校注册建筑师的具体管理办法。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 4}]</data>
-</node>
-<node id="&quot;人事主管部门&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"人事主管部门 is a government department that collaborates with the construction department to supervise and guide the examination, registration, practice, and continuing education of registered architects."&lt;SEP&gt;"人事主管部门 is a government organization responsible for issuing the first-level registered architect qualification certificates in collaboration with the construction department."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 4}]</data>
-</node>
-<node id="&quot;中华人民共和国&quot;">
+<node id="&quot;历史文化名城名镇名村街区&quot;">
   <data key="d0">"GEO"</data>
-  <data key="d1">"The People's Republic of China, the country where the architectural registration and certification regulations are enforced."&lt;SEP&gt;"中华人民共和国 is the country where the regulations for registered architects are implemented."&lt;SEP&gt;"中华人民共和国 is the geographical region where the construction, design, and other related activities are regulated and practiced."&lt;SEP&gt;"中华人民共和国是注册建筑师执业活动的法定地域范围，所有执业活动必须在其境内进行。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+  <data key="d1">"Historical and cultural cities, towns, villages, and blocks are geographical areas recognized for their historical and cultural significance, requiring special protection and planning."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
 </node>
-<node id="&quot;建设部执业资格注册中心&quot;">
+<node id="&quot;保护规划&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Protection planning refers to the systematic process of creating and approving plans to preserve the traditional layout and historical features of historical and cultural cities, towns, villages, and blocks."&lt;SEP&gt;"保护规划 refers to the formal planning process for preserving historical and cultural cities, towns, villages, and districts."&lt;SEP&gt;"保护规划 refers to the protection plans for historical and cultural sites, involving preparation, approval, modification, and enforcement processes."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-b64bc27036fdc7e0a0d441459662e4f0&lt;SEP&gt;chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;城乡规划法&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"建设部执业资格注册中心 hosts the secretariat of the National Registered Architect Management Committee and handles its daily operations."</data>
-  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+  <data key="d1">"The Urban and Rural Planning Law is a legal framework that guides the planning and development of urban and rural areas, including the protection of historical and cultural sites."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
 </node>
-<node id="&quot;一级注册建筑师&quot;">
-  <data key="d0">"PERSON"</data>
-  <data key="d1">"Class 1 registered architects whose certificates and seals are issued by the national committee."&lt;SEP&gt;"一级注册建筑师 are professional architects who have passed the national first-level examination and obtained certification."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
-</node>
-<node id="&quot;二级注册建筑师&quot;">
-  <data key="d0">"PERSON"</data>
-  <data key="d1">"Class 2 registered architects whose certificates and seals are issued by provincial committees."&lt;SEP&gt;"二级注册建筑师 are professional architects who have passed the provincial-level examination and obtained certification."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
-</node>
-<node id="&quot;注册建筑师考试&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"注册建筑师考试 is an event where individuals take exams to qualify as registered architects."&lt;SEP&gt;"注册建筑师考试 is the national examination system for certifying architects at different levels, conducted annually."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
-</node>
-<node id="&quot;建筑设计专家&quot;">
-  <data key="d0">"PERSON"</data>
-  <data key="d1">"建筑设计专家 are experts in architectural design who serve as members of the National Registered Architect Management Committee."</data>
-  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
-</node>
-<node id="&quot;国务院&quot;">
+<node id="&quot;历史文化名城名镇名村保护条例&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"国务院 is the central government body that oversees the implementation of architect registration regulations."</data>
-  <data key="d2">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+  <data key="d1">"The Regulations on the Protection of Historical and Cultural Cities, Towns, and Villages is a legislative document that provides the basis for the protection planning of these areas."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
 </node>
-<node id="&quot;一级注册建筑师执业资格证书&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"一级注册建筑师执业资格证书 is an event where a first-level registered architect qualification certificate is issued by the construction and personnel departments."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
-</node>
-<node id="&quot;二级注册建筑师执业资格证书&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"二级注册建筑师执业资格证书 is an event where a second-level registered architect qualification certificate is issued by the regional architect management committee."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
-</node>
-<node id="&quot;初始注册&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"初始注册 is an event where qualified individuals apply for initial registration as architects."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;延续注册&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"延续注册 is an event where registered architects apply to extend their registration."&lt;SEP&gt;"延续注册 refers to the renewal registration process for architects."&lt;SEP&gt;"延续注册是注册建筑师在注册有效期届满前申请延长执业资格的程序，需提交相关材料。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;变更注册&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"变更注册 is an event where registered architects apply to change their registration details."&lt;SEP&gt;"变更注册是注册建筑师更换执业单位时需要办理的手续，需提交新聘用单位的相关材料。"</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;聘用单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"Employing organizations that hire registered architects and may face penalties for violations."&lt;SEP&gt;"聘用单位 refers to the employing unit (e.g., construction, design, or consulting firms) where registered architects are legally employed."&lt;SEP&gt;"聘用单位是与注册建筑师签订劳动合同并为其提供执业资质的单位，其资质和状态直接影响注册建筑师的有效性。"</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 2}]</data>
-</node>
-<node id="&quot;中华人民共和国境内&quot;">
+<node id="&quot;历史文化名城&quot;">
   <data key="d0">"GEO"</data>
-  <data key="d1">"中华人民共和国境内 is the geographical scope where registered architects must work to qualify for registration."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d1">"Historical and cultural cities are urban areas recognized for their significant historical and cultural heritage, requiring special protection and planning under national regulations."&lt;SEP&gt;"历史文化名城 refers to cities with significant historical and cultural value, requiring protection of their traditional layout, historical features, and natural landscapes."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;历史文化名镇&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Historical and cultural towns are settlements with preserved historical and cultural features, designated for protection under national planning laws."&lt;SEP&gt;"历史文化名镇 refers to towns with significant historical and cultural value, requiring protection of their traditional layout, historical features, and natural landscapes."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-d408714eb40d708fb89f44340dacc187</data>
   <data key="d3">[{"level": 0, "cluster": 2}]</data>
 </node>
-<node id="&quot;建设工程勘察、设计、施工、监理、招标代理、造价咨询、施工图审查、城乡规划编制等单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"These are specific types of organizations (e.g., survey, design, construction, supervision, bidding agencies, cost consulting, etc.) where registered architects can be employed."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
+<node id="&quot;历史文化名村&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Historical and cultural villages are rural settlements with important heritage value, included in special protection planning systems."&lt;SEP&gt;"历史文化名村 refers to villages with significant historical and cultural value, requiring protection of their traditional layout, historical features, and natural landscapes."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-d408714eb40d708fb89f44340dacc187</data>
   <data key="d3">[{"level": 0, "cluster": 2}]</data>
 </node>
-<node id="&quot;继续教育要求&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"继续教育要求 is the mandatory continuing education requirement for architects to maintain or renew their registration."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;执业印章&quot;">
-  <data key="d0">"CONCEPT"</data>
-  <data key="d1">"Practicing seals issued to registered architects as part of certification."&lt;SEP&gt;"执业印章 is the official seal issued to registered architects as proof of their legal practicing status."&lt;SEP&gt;"执业印章是注册建筑师从事执业活动的专用印章，与注册证书同等重要。"</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
-</node>
-<node id="&quot;注册证书&quot;">
-  <data key="d0">"CONCEPT"</data>
-  <data key="d1">"注册证书 is the official certificate issued to registered architects, validating their professional status."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
-</node>
-<node id="&quot;初始注册申请表&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"初始注册申请表 is the application form submitted by architects for initial registration."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;延续注册申请表&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"延续注册申请表 is the application form submitted by architects to extend their registration."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;业绩证明&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"业绩证明 refers to the proof of professional performance required for architect registration or renewal."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;公示&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"公示 is the public announcement of registration approval results by the national committee."</data>
-  <data key="d2">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
-</node>
-<node id="&quot;注册建筑师&quot;">
-  <data key="d0">"PERSON"</data>
-  <data key="d1">"注册建筑师 refers to registered architects who are qualified to engage in specific professional activities within the construction and design industry."&lt;SEP&gt;"注册建筑师是需要进行注册并满足继续教育要求的专业人士，其注册有效期和执业活动受到严格规定。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;注册机关&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"注册机关负责处理注册建筑师的注册、延续、变更、注销等手续，并监督其执业活动。"</data>
-  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+<node id="&quot;历史文化街区&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Historical and cultural blocks are urban districts with concentrated historical architecture and cultural significance, protected under specific planning regulations."&lt;SEP&gt;"历史文化街区 refers to historical and cultural districts in China that require special protection planning and management."&lt;SEP&gt;"历史文化街区 refers to historical and cultural districts within cities, towns, or villages, requiring protection of their traditional layout and historical features."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-b64bc27036fdc7e0a0d441459662e4f0&lt;SEP&gt;chunk-d408714eb40d708fb89f44340dacc187</data>
   <data key="d3">[{"level": 0, "cluster": 2}]</data>
 </node>
-<node id="&quot;高等学校（院）&quot;">
+<node id="&quot;城市、镇总体规划&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"City and town master plans are comprehensive urban planning documents that must incorporate protection measures for historical and cultural areas."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+</node>
+<node id="&quot;控制性详细规划&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Regulatory detailed planning refers to specific urban planning documents that must conform to protection plans for historical and cultural areas."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;县级人民政府&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"高等学校（院）是从事教学和科研的机构，其所属建筑设计单位可以聘用具有注册建筑师资格的人员。"</data>
-  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 4}]</data>
-</node>
-<node id="&quot;注册有效期&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"注册有效期是注册建筑师可以合法执业的时间段，期满需延续注册，否则失效。"</data>
-  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 1}]</data>
-</node>
-<node id="&quot;注销注册&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"注销注册是注册建筑师因特定情形失去执业资格后，由注册机关办理的手续。"</data>
-  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
-</node>
-<node id="&quot;注册建筑师注册&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"注册建筑师注册是建筑师获得执业资格的必要程序，需满足特定条件并通过审核。"</data>
-  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-</node>
-<node id="&quot;继续教育&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"继续教育 is a mandatory continuing education program for registered architects to maintain their qualifications, including必修课 and 选修课."&lt;SEP&gt;"继续教育是注册建筑师在注册期内必须完成的学习要求，用于延续注册资格。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;资质证书&quot;">
-  <data key="d0">"CONCEPT"</data>
-  <data key="d1">"资质证书是聘用单位具备相应工程设计资质的证明文件，影响注册建筑师的执业有效性。"</data>
-  <data key="d2">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d1">"County-level people's governments are responsible for organizing the preparation of protection plans for historical and cultural towns and villages."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
   <data key="d3">[{"level": 0, "cluster": 2}]</data>
 </node>
 <node id="&quot;城乡规划编制单位&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"城乡规划编制单位 refers to urban and rural planning organizations that must employ registered professionals."&lt;SEP&gt;"城乡规划编制单位是可以聘用注册建筑师从事执业活动的单位类型之一。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d1">"Urban and rural planning preparation units are professional organizations with specific qualifications required to draft protection plans for historical areas."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
 </node>
-<node id="&quot;建设工程勘察单位&quot;">
+<node id="&quot;文物保护单位&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"建设工程勘察单位 refers to organizations engaged in construction project survey activities within China."&lt;SEP&gt;"建设工程勘察单位是可以聘用注册建筑师从事执业活动的单位类型之一。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+  <data key="d1">"Cultural relic protection units are designated heritage sites that must be included in the core protection areas of historical cities and towns."</data>
+  <data key="d2">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
 </node>
-<node id="&quot;设计单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"设计单位 refers to design organizations that must employ registered architects for construction design work."&lt;SEP&gt;"设计单位是可以聘用注册建筑师从事建筑工程设计执业活动的具有工程设计资质的单位。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;县级以上地方人民政府建设主管部门&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"县级以上地方人民政府建设主管部门 refers to local construction authorities supervising architect activities."&lt;SEP&gt;"县级以上地方人民政府建设主管部门负责监督注册建筑师的执业活动并及时告知注册机关相关情况。"</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d3">[{"level": 0, "cluster": 4}]</data>
-</node>
-<node id="&quot;工程设计资质单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"工程设计资质单位 refers to organizations with the necessary qualifications to engage in engineering design activities, where registered architects must be employed."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;施工单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"施工单位 refers to construction companies that must comply with designs approved by registered architects."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;监理单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"监理单位 refers to supervision organizations overseeing construction project quality and compliance."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;招标代理单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"招标代理单位 refers to bidding agencies involved in construction project tenders."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;造价咨询单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"造价咨询单位 refers to cost consulting firms providing construction project cost estimates."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;施工图审查单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"施工图审查单位 refers to organizations responsible for reviewing construction drawings."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;注册建筑师管理委员会&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"注册建筑师管理委员会 refers to committees at provincial levels that oversee architect registration."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
-</node>
-<node id="&quot;建设单位&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"建设单位 refers to project owners who must submit architect-approved designs for construction."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;设计审查部门&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"设计审查部门 refers to design review departments that validate architect-certified plans."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;必修课&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"必修课 refers to mandatory courses in the continuing education program for architects."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;选修课&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"选修课 refers to elective courses in the continuing education program for architects."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 9}]</data>
-</node>
-<node id="&quot;逾期初始注册&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"逾期初始注册 refers to late initial registration process for architects."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;重新申请注册&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"重新申请注册 refers to re-application for registration by architects."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;监督检查&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"监督检查 refers to supervision and inspection activities conducted by construction authorities."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-</node>
-<node id="&quot;行政处罚&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"行政处罚 refers to administrative penalties imposed on non-compliant architects or firms."</data>
-  <data key="d2">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d3">[{"level": 0, "cluster": 4}]</data>
-</node>
-<node id="&quot;县级以上人民政府建设主管部门&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"Local government departments at the county level or above responsible for construction-related administration, including enforcing penalties for violations of architectural regulations."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
-</node>
-<node id="&quot;国务院人事主管部门&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"A national-level department under the State Council responsible for the unified production of architect qualification certificates."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
-</node>
-<node id="&quot;X住房和城乡建设部&quot;">
-  <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"The Ministry of Housing and Urban-Rural Development, responsible for issuing and enforcing regulations related to architectural practices in China."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d3">[{"level": 0, "cluster": 3}]</data>
-</node>
-<node id="&quot;香港特别行政区、澳门特别行政区、台湾地区的专业技术人员&quot;">
-  <data key="d0">"PERSON"</data>
-  <data key="d1">"Professional technicians from Hong Kong, Macau, and Taiwan who can participate in national unified exams and apply for registration according to relevant agreements."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-</node>
-<node id="&quot;外籍专业技术人员&quot;">
-  <data key="d0">"PERSON"</data>
-  <data key="d1">"Foreign professional technicians who can participate in national unified exams and apply for architect registration based on reciprocal agreements with their home countries."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-</node>
-<node id="&quot;香港特别行政区&quot;">
+<node id="&quot;历史建筑&quot;">
   <data key="d0">"GEO"</data>
-  <data key="d1">"Hong Kong Special Administrative Region, whose professional technicians can participate in national exams and registration under specific agreements."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d1">"Historical buildings are architecturally significant structures that require special protection and documentation in cultural heritage plans."&lt;SEP&gt;"历史建筑 refers to buildings of historical significance that are protected under specific regulations and cannot be arbitrarily modified or demolished."&lt;SEP&gt;"历史建筑 refers to buildings with historical significance that require protection and specific utilization measures as outlined in protection plans."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-b64bc27036fdc7e0a0d441459662e4f0&lt;SEP&gt;chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
 </node>
-<node id="&quot;澳门特别行政区&quot;">
-  <data key="d0">"GEO"</data>
-  <data key="d1">"Macau Special Administrative Region, whose professional technicians can participate in national exams and registration under specific agreements."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-</node>
-<node id="&quot;台湾地区&quot;">
-  <data key="d0">"GEO"</data>
-  <data key="d1">"Taiwan region, whose professional technicians can participate in national exams and registration under specific agreements."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-</node>
-<node id="&quot;注册建筑师执业资格证书&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"An event involving the issuance of architect qualification certificates by the national personnel authority."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 10}]</data>
-</node>
-<node id="&quot;全国统一考试&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"A national unified examination for architects that professional technicians from Hong Kong, Macau, Taiwan, and foreign countries can participate in under specific conditions."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-</node>
-<node id="&quot;建设部&quot;">
+<node id="&quot;国务院城乡规划主管部门&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"Former ministry responsible for architectural regulations in China, which issued the now-repealed 1996 regulations."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d1">"国务院城乡规划主管部门 is the national authority responsible for urban and rural planning, overseeing the approval and modification of protection plans for historical and cultural sites."&lt;SEP&gt;"国务院城乡规划主管部门 is the national urban and rural planning authority responsible for reviewing and approving protection plans for historical and cultural cities, towns, and villages."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
 </node>
-<node id="&quot;《中华人民共和国注册建筑师条例实施细则》&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"The 1996 implementation rules for registered architects in China that were repealed in 2008."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-</node>
-<node id="&quot;建设部令第52号&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"The ministerial order number associated with the 1996 implementation rules for registered architects."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-</node>
-<node id="&quot;申请人&quot;">
-  <data key="d0">"PERSON"</data>
-  <data key="d1">"Individuals applying for architect registration and certification."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+<node id="&quot;省、自治区、直辖市人民政府城乡规划主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"省、自治区、直辖市人民政府城乡规划主管部门 refers to the provincial-level urban and rural planning authorities responsible for organizing expert reviews of protection plans."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
   <data key="d3">[{"level": 0, "cluster": 2}]</data>
 </node>
-<node id="&quot;县级以上人民政府人事主管部门&quot;">
+<node id="&quot;非物质文化遗产&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"Local government personnel departments at county level or above involved in architect management."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+  <data key="d1">"非物质文化遗产 refers to intangible cultural heritage that needs protection and measures for inheritance and promotion within historical and cultural areas."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
 </node>
-<node id="&quot;互认资格证书&quot;">
+<node id="&quot;核心保护范围&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"核心保护范围 is the core protected area within historical cities, towns, villages, or districts where traditional layouts and historical features are preserved."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
+</node>
+<node id="&quot;建设控制地带&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"建设控制地带 refers to controlled construction zones surrounding core protected areas to manage development impacts."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
+</node>
+<node id="&quot;县级以上地方人民政府&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"县级以上地方人民政府 is the local government responsible for defining protection zones for cultural relics and historical sites."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
+</node>
+<node id="&quot;国务院文物主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"国务院文物主管部门 is the national authority responsible for cultural relics, involved in the approval and modification of protection plans for historical and cultural sites."&lt;SEP&gt;"国务院文物主管部门 is the national cultural relics authority involved in reviewing and archiving protection plans for historical cities."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;城乡规划&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"城乡规划 refers to urban and rural planning systems that coordinate with protection plans for historical areas."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;传统格局&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"传统格局 refers to the traditional spatial layout of historical areas that must be preserved under protection plans."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
+</node>
+<node id="&quot;历史风貌&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"历史风貌 refers to the historical appearance and characteristics of protected areas that must be maintained."</data>
+  <data key="d2">chunk-30858b2032c732cdb0c2115d440d9426</data>
+</node>
+<node id="&quot;国家历史文化名城&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"国家历史文化名城 refers to cities in China that are recognized for their historical and cultural significance, requiring special protection plans and regulations."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;中国历史文化名镇&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"中国历史文化名镇 refers to towns in China recognized for their historical and cultural importance, subject to specific protection planning and legal procedures."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;中国历史文化名村&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"中国历史文化名村 refers to villages in China designated for their historical and cultural value, requiring adherence to protection planning and legal standards."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;地方人民政府&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"地方人民政府 refers to local governments in China, responsible for organizing the preparation and enforcement of protection plans for historical and cultural sites."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;城乡规划主管部门&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"城乡规划主管部门 refers to urban and rural planning authorities, responsible for enforcing protection plans and handling violations related to historical and cultural sites."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;住房和城乡建设部&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"住房和城乡建设部 is the Ministry of Housing and Urban-Rural Development of China, responsible for issuing regulations and standards related to construction and urban planning."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;紫线&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"紫线 refers to the protection boundary lines for historical and cultural areas and buildings, which are mandatory in urban planning."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;规划许可&quot;">
   <data key="d0">"EVENT"</data>
-  <data key="d1">"Mutual recognition qualification certificates issued for architects under reciprocal agreements."</data>
-  <data key="d2">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d1">"规划许可 refers to the planning permits issued by authorities for construction activities, which must comply with protection regulations for historical sites."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
 </node>
-<edge source="&quot;住房和城乡建设部&quot;" target="&quot;中华人民共和国注册建筑师条例实施细则&quot;">
+<node id="&quot;听证&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"听证 refers to public hearings that may be required during the protection planning process to gather input and ensure transparency."</data>
+  <data key="d2">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;GB50007-2011&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB50007-2011 is a national design standard for building foundation design in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB 55007-2021&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB 55007-2021 is a national design standard for masonry structure design in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB50017-2017&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB50017-2017 is a national design standard for steel structure design in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB 55030-2022&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB 55030-2022 is a national general standard for building and municipal engineering waterproofing in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB/T50476-2019&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB/T50476-2019 is a national standard for durability design of concrete structures in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB 55037-2022&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB 55037-2022 is a national general standard for building fire protection in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;JGJ79-2012&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"JGJ79-2012 is a technical standard for building foundation treatment in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;JGJ94-2008&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"JGJ94-2008 is a technical standard for building pile foundations in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB50108-2008&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB50108-2008 is a technical standard for underground engineering waterproofing in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB50003-2011&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB50003-2011 is a national design standard for masonry structure design in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB50011-2010&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB50011-2010 is a national design standard for building seismic design in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;JGJ3-2010&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"JGJ3-2010 is a technical specification for high-rise building concrete structures in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;JGJ/T406-2017&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"JGJ/T406-2017 is a technical standard for prestressed concrete pipe piles in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;GB55001-2021&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB55001-2021 is a national general standard for engineering structures in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《东莞市建筑工程质量通病防治手册》(2019年版)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《东莞市建筑工程质量通病防治手册》(2019年版) is a technical guide for preventing common quality issues in construction projects in Dongguan, China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《建筑地基基础设计规范》GB50007-2011&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《建筑地基基础设计规范》GB50007-2011 is a national standard for the design of building foundations in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《建筑地基处理技术规范》JGJ79-2012&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《建筑地基处理技术规范》JGJ79-2012 is a technical standard for building foundation treatment in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《建筑桩基技术规范》JGJ94-2008&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《建筑桩基技术规范》JGJ94-2008 is a technical standard for building pile foundations in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《地下工程防水技术规范》GB50108-2008&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《地下工程防水技术规范》GB50108-2008 is a technical standard for waterproofing in underground engineering in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《砌体结构设计规范》GB50003-2011&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《砌体结构设计规范》GB50003-2011 is a national standard for the design of masonry structures in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《建筑抗震设计规范》GB50011-2010&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《建筑抗震设计规范》GB50011-2010 is a national standard for seismic design of buildings in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《高层建筑混凝土结构技术规程》JGJ3-2010&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《高层建筑混凝土结构技术规程》JGJ3-2010 is a technical specification for high-rise concrete structures in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《预应力混凝土管桩技术标准》JGJ/T406-2017&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《预应力混凝土管桩技术标准》JGJ/T406-2017 is a technical standard for prestressed concrete pipe piles in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《工程结构通用规范》GB55001-2021&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《工程结构通用规范》GB55001-2021 is a national general standard for engineering structures in China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;《广东省建筑工程综合抗震能力提升技术指引》(2019年版)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"《广东省建筑工程综合抗震能力提升技术指引》(2019年版) is a technical guide for improving seismic resistance in construction projects in Guangdong, China."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;基坑开挖&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"基坑开挖 is the process of excavating foundation pits, with specific requirements to prevent disturbance to natural foundation structures."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;地基垫层施工&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"地基垫层施工 is the construction of foundation cushion layers, which should be done promptly after excavation to prevent water exposure."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;回填土&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"回填土 is the process of backfilling soil, with strict requirements on material quality and compaction standards."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;防水层施工&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"防水层施工 is the construction of waterproof layers, with specific material and compaction requirements in surrounding areas."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;压实试验&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"压实试验 refers to compaction tests conducted to determine appropriate layering and compaction methods for backfill materials."</data>
+  <data key="d2">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+</node>
+<node id="&quot;基坑回填土&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"基坑回填土 refers to the backfilling process in construction, with specific requirements for compaction coefficients and layer thickness."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;沉降观测&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"沉降观测 is the process of monitoring building settlement during and after construction, with detailed requirements for observation frequency and standards."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;地下室外墙、顶板防水施工&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"地下室外墙、顶板防水施工 involves waterproofing construction for basement walls and roofs, with specific measures for construction joints and materials."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;防水混凝土穿墙管件（盒）&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"防水混凝土穿墙管件（盒） refers to the installation of waterproof pipe fittings through concrete walls, adhering to national standards and specifications."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;建筑变形测量规范&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"建筑变形测量规范 is a standard referenced for settlement observation, specifying procedures and accuracy requirements."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;给水排水构筑物工程施工及验收规范&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"给水排水构筑物工程施工及验收规范 is a national standard for the construction and acceptance of water supply and drainage structures."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;设备基础&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"设备基础 refers to the foundation for equipment installation, with specific backfill requirements mentioned in the text."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;地面&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"地面 refers to the ground surface that requires proper backfilling with specified compaction coefficients."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;散水&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"散水 refers to the apron around buildings that requires backfilling with specific construction standards."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;踏步&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"踏步 refers to steps or staircases whose foundations require proper backfilling procedures."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;承台&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"承台 refers to pile caps whose elevation requirements affect backfilling procedures when above design grade."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;地下室底板&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"地下室底板 refers to basement floor slabs where specific requirements exist for construction joints."&lt;SEP&gt;"地下室底板 refers to the basement floor slab, which involves large-volume concrete construction with specific material and standard requirements."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84&lt;SEP&gt;chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;JGJ 8-2016&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"JGJ 8-2016 is the industry standard code for building deformation measurement referenced in settlement observations."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;03ZG204&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"03ZG204 is a standard design document referenced for settlement observation point markers."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;GB50141&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GB50141 is a national standard for construction and acceptance of water supply and drainage structures, referenced for selecting dense waterproof concrete."&lt;SEP&gt;"GB50141 is the national standard for water supply and drainage structure construction referenced for waterproof pipe fittings."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa&lt;SEP&gt;chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;02S404&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"02S404 is a national standard design atlas for waterproof sleeves, referenced for construction specifications."&lt;SEP&gt;"02S404 is the national standard design atlas for waterproof sleeves referenced in construction."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa&lt;SEP&gt;chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;施工缝&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"施工缝 refers to construction joints in concrete pouring with specific waterproofing treatment requirements."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;水泥基渗透结晶型防水涂料&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"水泥基渗透结晶型防水涂料 is a specified waterproof coating material for construction joints."&lt;SEP&gt;"水泥基渗透结晶型防水涂料 is a waterproof coating applied to concrete surfaces."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84&lt;SEP&gt;chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;遇水膨胀止水条&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"遇水膨胀止水条 refers to water-expanding sealing strips with specific performance requirements for construction joints."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;中埋式钢板止水带&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中埋式钢板止水带 is a specified steel plate waterstop for construction joints."</data>
+  <data key="d2">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+</node>
+<node id="&quot;22G101-1&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"22G101-1 is a standard design atlas referenced for detailing the construction of slabs and beams in post-pouring belts."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;22G101-3&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"22G101-3 is a standard design atlas referenced for detailing the construction of foundation slabs, foundation beams, and underground exterior walls in post-pouring belts."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;CONSTRUCTION UNIT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The construction unit is responsible for executing the post-pouring belt construction, including proposing formwork plans and ensuring safety measures."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;DESIGN UNIT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The design unit approves construction plans and provides guidance on structural stability and safety measures."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;SUPERVISION AGENCY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The supervision agency reviews and approves construction plans, ensuring compliance with standards and safety measures."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;POST-POURING BELT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The post-pouring belt is a construction event involving specific procedures, materials, and standards to ensure structural integrity and waterproofing."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;EXPANSION STRENGTHENING BELT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The expansion strengthening belt is a construction event involving the use of compensation shrinkage concrete and specific construction techniques."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;防水套管&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"防水套管 is a waterproof sleeve standard referenced in the construction specifications."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;密实防水混凝土&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"密实防水混凝土 is a type of dense waterproof concrete specified for use in construction."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;止水环&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"止水环 is a sealing component mentioned in the welding temperature control requirements for waterproofing."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;非承重内墙填充墙基础&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"非承重内墙填充墙基础 refers to the construction event of building non-load-bearing interior wall foundations with specific requirements."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;回填土层&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"回填土层 is the backfill soil layer mentioned in the foundation construction requirements."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;压实系数&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"压实系数 is the compaction coefficient specified to be no less than 0.94 in backfill soil compaction."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;同条件养护&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"同条件养护 refers to the curing process required for post-pouring belts from foundation to roof."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;补偿收缩混凝土&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"补偿收缩混凝土 is a type of concrete used in construction, specifically in the expansion strengthening belt, with added 15% expansion agent and higher strength grade than the adjacent concrete."&lt;SEP&gt;"补偿收缩混凝土 is a type of shrinkage-compensating concrete specified for use in post-pouring belts."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84&lt;SEP&gt;chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;膨胀剂&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"膨胀剂 is a concrete additive used to create controlled expansion in hardening concrete."&lt;SEP&gt;"膨胀剂 is an expansion agent added to concrete (12%-15% by cement weight) for post-pouring belts and expansion strengthening belts."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84&lt;SEP&gt;chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;水泥基界面处理剂&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"水泥基界面处理剂 is a cement-based interface treatment agent used in post-pouring belt preparation."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;沉降观测数据&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"沉降观测数据 refers to the settlement observation data required before post-pouring belt construction."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;合模计划&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"合模计划 is the formwork plan proposed by the construction unit for post-pouring belt work."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;临时荷载传力措施&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"临时荷载传力措施 are temporary load transfer measures required during post-pouring belt construction."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;预控方案&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"预控方案 is the pre-control plan for potential uneven settlement during post-pouring belt construction."</data>
+  <data key="d2">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+</node>
+<node id="&quot;粉质黏土&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"粉质黏土 is a type of soil with a bearing capacity feature value of 20 kPa, mentioned in the foundation bearing capacity table."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;全风化片麻岩&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"全风化片麻岩 is a type of fully weathered gneiss with a bearing capacity feature value of 80 kPa, mentioned in the foundation bearing capacity table."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;强风化片麻岩&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"强风化片麻岩 is a type of strongly weathered gneiss with a bearing capacity feature value of 80 kPa, mentioned in the foundation bearing capacity table."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;抗震设防烈度&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"抗震设防烈度 is the seismic fortification intensity, set at six degrees, with a basic seismic acceleration value of 0.05g."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;膨胀加强带&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"膨胀加强带 is a construction zone using expansive concrete with 15% expansion agent, with higher strength grade than adjacent concrete."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;地下室大体积混凝土&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"地下室大体积混凝土 refers to mass concrete construction in basement floors requiring special temperature control measures."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;低热水泥&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"低热水泥 is a type of low-heat cement used in mass concrete construction to reduce thermal cracking."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;中热水泥&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中热水泥 is a type of moderate-heat cement used as an alternative in mass concrete construction."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;粉煤灰&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"粉煤灰 is a supplementary cementitious material used in concrete mixes to improve workability and reduce heat."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;磨细矿渣粉&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"磨细矿渣粉 is a ground granulated blast-furnace slag used as concrete additive."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;减水剂&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"减水剂 is a water-reducing admixture used to improve concrete workability."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;缓凝剂&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"缓凝剂 is a concrete retarder used to delay setting time in high-temperature conditions."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;循环水管&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"循环水管 refers to cooling pipes embedded in mass concrete to control temperature."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;冷风管道&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"冷风管道 refers to chilled air piping used for concrete temperature control."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;建场场地&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"建场场地 is classified as Site Category II in the seismic design standards."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;消防车道&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"消防车道 is a fire truck access lane with specified live load requirements (35 kN/m²)."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;保温保湿养护&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"保温保湿养护 is a curing process requiring minimum 14 days duration with strict temperature controls."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;连续浇筑&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"连续浇筑 refers to continuous concrete pouring methods for large structural elements."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<node id="&quot;负压抗渗处理&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"负压抗渗处理 is a waterproofing treatment using crystalline waterproof coatings."</data>
+  <data key="d2">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+</node>
+<edge source="&quot;中华人民共和国住房和城乡建设部&quot;" target="&quot;保护规划&quot;">
   <data key="d4">9.0</data>
-  <data key="d5">"住房和城乡建设部 issued the 中华人民共和国注册建筑师条例实施细则 to regulate the activities of registered architects."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d5">"The Ministry of Housing and Urban-Rural Development is responsible for issuing and overseeing the implementation of protection planning regulations."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;中华人民共和国注册建筑师条例实施细则&quot;" target="&quot;中华人民共和国&quot;">
+<edge source="&quot;历史文化名城名镇名村街区&quot;" target="&quot;保护规划&quot;">
+  <data key="d4">10.0</data>
+  <data key="d5">"The protection planning is specifically designed to preserve the historical and cultural integrity of these areas."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;城乡规划法&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The Urban and Rural Planning Law provides the legal basis for the creation and approval of protection plans."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;历史文化名城名镇名村保护条例&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The Regulations on the Protection of Historical and Cultural Cities, Towns, and Villages outline the requirements and procedures for protection planning."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;历史文化名城&quot;">
   <data key="d4">9.0</data>
-  <data key="d5">"The 中华人民共和国注册建筑师条例实施细则 applies within the jurisdiction of 中华人民共和国."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d5">"Historical and cultural cities must have separate protection plans prepared within one year of their designation."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;">
-  <data key="d4">25.0</data>
-  <data key="d5">"Both organizations are responsible for managing architect registration and certification, with the former at the national level and the latter at regional levels."&lt;SEP&gt;"全国注册建筑师管理委员会 oversees the work of 省、自治区、直辖市注册建筑师管理委员会 in administering examinations and registrations."&lt;SEP&gt;"省、自治区、直辖市注册建筑师管理委员会 submits initial registration applications to 全国注册建筑师管理委员会 for approval."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0&lt;SEP&gt;chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
+<edge source="&quot;保护规划&quot;" target="&quot;历史文化名镇&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Historical and cultural towns require specific protection plans organized by county governments within one year of designation."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;国务院建设主管部门&quot;">
+<edge source="&quot;保护规划&quot;" target="&quot;历史文化名村&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Historical and cultural villages must have protection plans prepared by qualified planning units within one year of recognition."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;城乡规划编制单位&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Qualified urban planning units are required to undertake the preparation of protection plans for historical areas."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;历史建筑&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"Historical buildings require detailed documentation and protection measures in cultural heritage plans."&lt;SEP&gt;"历史建筑 are a key focus of 保护规划, which specifies their protection and utilization measures."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;非物质文化遗产&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"非物质文化遗产 is addressed in 保护规划 through measures for its inheritance and promotion."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;城乡规划&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"城乡规划 systems must align with 保护规划 to ensure coordinated preservation and development."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;地方人民政府&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"地方人民政府 is responsible for organizing the preparation and enforcement of 保护规划 for historical and cultural sites."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;城乡规划主管部门&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"城乡规划主管部门 enforces 保护规划 and handles violations related to historical and cultural sites."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;住房和城乡建设部&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"住房和城乡建设部 issues regulations and oversees the implementation of 保护规划 for historical and cultural sites."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;保护规划&quot;" target="&quot;听证&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"保护规划 may involve 听证 (public hearings) to ensure stakeholder participation and transparency in the planning process."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化名城&quot;" target="&quot;文物保护单位&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Cultural relic protection units must be included in the core protection areas of historical cities."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化名城&quot;" target="&quot;国务院城乡规划主管部门&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The protection plans for 历史文化名城 are reviewed and approved by 国务院城乡规划主管部门, indicating a regulatory relationship."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化名镇&quot;" target="&quot;县级人民政府&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"County governments are responsible for organizing protection plan preparation for designated historical towns."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化名镇&quot;" target="&quot;省、自治区、直辖市人民政府城乡规划主管部门&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The protection plans for 历史文化名镇 are reviewed and approved by provincial-level urban and rural planning authorities, indicating a regulatory relationship."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化名村&quot;" target="&quot;省、自治区、直辖市人民政府城乡规划主管部门&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The protection plans for 历史文化名村 are reviewed and approved by provincial-level urban and rural planning authorities, indicating a regulatory relationship."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化街区&quot;" target="&quot;控制性详细规划&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Protection plans for historical blocks must reach the depth of detailed planning and can serve as regulatory plans for the area."</data>
+  <data key="d6">chunk-d408714eb40d708fb89f44340dacc187</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化街区&quot;" target="&quot;省、自治区、直辖市人民政府城乡规划主管部门&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The protection plans for 历史文化街区 are reviewed and approved by provincial-level urban and rural planning authorities, indicating a regulatory relationship."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史文化街区&quot;" target="&quot;紫线&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"历史文化街区 are demarcated by 紫线 (protection boundaries) to ensure their preservation."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;历史建筑&quot;" target="&quot;紫线&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"历史建筑 are protected under 紫线 regulations to prevent unauthorized modifications or demolition."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;国务院城乡规划主管部门&quot;" target="&quot;国务院文物主管部门&quot;">
   <data key="d4">15.0</data>
-  <data key="d5">"国务院建设主管部门 appoints members to 全国注册建筑师管理委员会 and collaborates with it on regulatory matters."&lt;SEP&gt;"国务院建设主管部门 collaborates with 全国注册建筑师管理委员会 to regulate and manage the professional standards of registered architects."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4&lt;SEP&gt;chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d5">"Both authorities collaborate in reviewing and archiving protection plans for national historical cities."&lt;SEP&gt;"Both departments are involved in the approval and备案 of protection plans for historical and cultural sites."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426&lt;SEP&gt;chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;人事主管部门&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"人事主管部门 collaborates with 国务院建设主管部门 to appoint members to 全国注册建筑师管理委员会."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;建设部执业资格注册中心&quot;">
+<edge source="&quot;国务院城乡规划主管部门&quot;" target="&quot;国家历史文化名城&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"The secretariat of 全国注册建筑师管理委员会 is located at 建设部执业资格注册中心."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d5">"国家历史文化名城 protection plans must be submitted to 国务院城乡规划主管部门 for approval and备案."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;建筑设计专家&quot;">
+<edge source="&quot;国务院城乡规划主管部门&quot;" target="&quot;中国历史文化名镇&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"建筑设计专家 are part of the composition of 全国注册建筑师管理委员会."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d5">"中国历史文化名镇 protection plans must be submitted to 国务院城乡规划主管部门 for approval and备案."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;一级注册建筑师执业资格证书&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"全国注册建筑师管理委员会 is responsible for approving and issuing first-level registered architect registration certificates."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;执业印章&quot;">
-  <data key="d4">9.0</data>
-  <data key="d5">"全国注册建筑师管理委员会 issues the 执业印章 to approved registered architects."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;注册证书&quot;">
-  <data key="d4">9.0</data>
-  <data key="d5">"全国注册建筑师管理委员会 issues the 注册证书 to approved registered architects."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;公示&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"全国注册建筑师管理委员会 conducts 公示 to publicly announce registration approvals."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;注册建筑师&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"全国注册建筑师管理委员会 sets the continuing education standards and other professional requirements for 注册建筑师."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;注册建筑师管理委员会&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"全国注册建筑师管理委员会 coordinates with provincial 注册建筑师管理委员会 for registration matters."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;县级以上人民政府建设主管部门&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"Local construction departments enforce penalties for violations, while the national committee oversees registration and certification."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;全国注册建筑师管理委员会&quot;" target="&quot;一级注册建筑师&quot;">
-  <data key="d4">9.0</data>
-  <data key="d5">"The national committee issues registration certificates and seals for Class 1 architects."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;" target="&quot;二级注册建筑师执业资格证书&quot;">
+<edge source="&quot;国务院城乡规划主管部门&quot;" target="&quot;中国历史文化名村&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"省、自治区、直辖市注册建筑师管理委员会 is responsible for issuing second-level registered architect qualification certificates."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d5">"中国历史文化名村 protection plans must be submitted to 国务院城乡规划主管部门 for approval and备案."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;省、自治区、直辖市注册建筑师管理委员会&quot;" target="&quot;二级注册建筑师&quot;">
-  <data key="d4">9.0</data>
-  <data key="d5">"Provincial committees issue registration certificates and seals for Class 2 architects."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;国务院建设主管部门&quot;" target="&quot;人事主管部门&quot;">
-  <data key="d4">17.0</data>
-  <data key="d5">"国务院建设主管部门 and 人事主管部门 collaborate to issue first-level registered architect qualification certificates."&lt;SEP&gt;"国务院建设主管部门 and 人事主管部门 work together to supervise and guide the examination, registration, practice, and continuing education of registered architects."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;国务院建设主管部门&quot;" target="&quot;国务院&quot;">
+<edge source="&quot;核心保护范围&quot;" target="&quot;建设控制地带&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"国务院建设主管部门 operates under the authority of 国务院."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
+  <data key="d5">"核心保护范围 and 建设控制地带 are complementary zones defined in protection plans to manage preservation and development."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;国务院建设主管部门&quot;" target="&quot;高等学校（院）&quot;">
+<edge source="&quot;核心保护范围&quot;" target="&quot;县级以上地方人民政府&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"县级以上地方人民政府 determines the boundaries of 核心保护范围 for cultural relics."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;传统格局&quot;" target="&quot;历史风貌&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"传统格局 and 历史风貌 are interdependent concepts in preservation, both essential to maintaining historical authenticity."</data>
+  <data key="d6">chunk-30858b2032c732cdb0c2115d440d9426</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;城乡规划主管部门&quot;" target="&quot;规划许可&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"城乡规划主管部门 issues 规划许可 for construction activities, ensuring compliance with protection regulations."</data>
+  <data key="d6">chunk-b64bc27036fdc7e0a0d441459662e4f0</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;GB50007-2011&quot;" target="&quot;GB 55007-2021&quot;">
   <data key="d4">6.0</data>
-  <data key="d5">"国务院建设主管部门与教育主管部门共同制定高等学校注册建筑师的具体管理办法。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d5">"Both are national design standards for building structures in China, with GB50007-2011 focusing on foundation design and GB 55007-2021 on masonry structure design."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;国务院建设主管部门&quot;" target="&quot;注册建筑师&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"国务院建设主管部门 oversees the registration and professional activities of 注册建筑师, ensuring compliance with regulations."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;国务院建设主管部门&quot;" target="&quot;县级以上地方人民政府建设主管部门&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"国务院建设主管部门 provides unified supervision over 县级以上地方人民政府建设主管部门."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;国务院建设主管部门&quot;" target="&quot;行政处罚&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"国务院建设主管部门 has authority to impose 行政处罚 for regulatory violations."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;中华人民共和国&quot;" target="&quot;注册建筑师&quot;">
-  <data key="d4">16.0</data>
-  <data key="d5">"注册建筑师 must be registered and employed within 中华人民共和国 to practice their profession legally."&lt;SEP&gt;"注册建筑师的执业活动必须在中华人民共和国境内进行。"</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;中华人民共和国&quot;" target="&quot;建设工程勘察单位&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"建设工程勘察单位 must operate within the legal framework of 中华人民共和国."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;中华人民共和国&quot;" target="&quot;X住房和城乡建设部&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"The Ministry of Housing and Urban-Rural Development operates within the People's Republic of China to enforce architectural regulations."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;一级注册建筑师&quot;" target="&quot;注册建筑师考试&quot;">
-  <data key="d4">9.0</data>
-  <data key="d5">"一级注册建筑师 must pass the 注册建筑师考试 to obtain certification."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;二级注册建筑师&quot;" target="&quot;注册建筑师考试&quot;">
-  <data key="d4">9.0</data>
-  <data key="d5">"二级注册建筑师 must pass the 注册建筑师考试 to obtain certification."</data>
-  <data key="d6">chunk-b2f82373ea218d877ff40910348ebfa4</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师考试&quot;" target="&quot;一级注册建筑师执业资格证书&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"注册建筑师考试 is the prerequisite for obtaining a 一级注册建筑师执业资格证书."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师考试&quot;" target="&quot;二级注册建筑师执业资格证书&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"注册建筑师考试 is the prerequisite for obtaining a 二级注册建筑师执业资格证书."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;初始注册&quot;" target="&quot;延续注册&quot;">
+<edge source="&quot;GB50017-2017&quot;" target="&quot;GB 55030-2022&quot;">
   <data key="d4">6.0</data>
-  <data key="d5">"初始注册 and 延续注册 are both processes for maintaining registered architect status, with 延续注册 following the expiration of the initial registration."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d5">"Both are national standards for building design in China, with GB50017-2017 focusing on steel structures and GB 55030-2022 on waterproofing."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;初始注册&quot;" target="&quot;初始注册申请表&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"初始注册申请表 is submitted as part of the 初始注册 process."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;初始注册&quot;" target="&quot;业绩证明&quot;">
+<edge source="&quot;GB/T50476-2019&quot;" target="&quot;GB 55037-2022&quot;">
   <data key="d4">6.0</data>
-  <data key="d5">"业绩证明 is required as supporting material for 初始注册 applications."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d5">"Both are national standards for building design in China, with GB/T50476-2019 focusing on concrete durability and GB 55037-2022 on fire protection."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;延续注册&quot;" target="&quot;变更注册&quot;">
-  <data key="d4">12.0</data>
-  <data key="d5">"变更注册 and 延续注册 are both processes for updating registered architect details, with 延续注册 focusing on extending the registration period."&lt;SEP&gt;"在变更注册时，若原注册有效期将届满，可同时申请延续注册。"</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;延续注册&quot;" target="&quot;继续教育要求&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"Fulfilling 继续教育要求 is mandatory to apply for 延续注册."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;延续注册&quot;" target="&quot;延续注册申请表&quot;">
+<edge source="&quot;JGJ79-2012&quot;" target="&quot;JGJ94-2008&quot;">
   <data key="d4">7.0</data>
-  <data key="d5">"延续注册申请表 is submitted as part of the 延续注册 process."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d5">"Both are technical standards for building foundations in China, with JGJ79-2012 focusing on foundation treatment and JGJ94-2008 on pile foundations."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;延续注册&quot;" target="&quot;业绩证明&quot;">
+<edge source="&quot;GB50108-2008&quot;" target="&quot;GB50003-2011&quot;">
   <data key="d4">6.0</data>
-  <data key="d5">"业绩证明 may be required as supporting material for 延续注册 applications."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d5">"Both are national standards for building design in China, with GB50108-2008 focusing on underground waterproofing and GB50003-2011 on masonry structures."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;延续注册&quot;" target="&quot;注册有效期&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"注册有效期届满前需办理延续注册以继续执业。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;延续注册&quot;" target="&quot;继续教育&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"完成继续教育是申请延续注册的必要条件之一。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;变更注册&quot;" target="&quot;资质证书&quot;">
+<edge source="&quot;GB50011-2010&quot;" target="&quot;JGJ3-2010&quot;">
   <data key="d4">7.0</data>
-  <data key="d5">"变更注册时需要提交新聘用单位的资质证书副本复印件。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d5">"Both are standards for building design in China, with GB50011-2010 focusing on seismic design and JGJ3-2010 on high-rise concrete structures."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;聘用单位&quot;" target="&quot;中华人民共和国境内&quot;">
+<edge source="&quot;JGJ/T406-2017&quot;" target="&quot;GB55001-2021&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Both are technical standards for building design in China, with JGJ/T406-2017 focusing on prestressed concrete pipe piles and GB55001-2021 on general engineering structures."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;《建筑地基基础设计规范》GB50007-2011&quot;" target="&quot;基坑开挖&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"聘用单位 must be located within 中华人民共和国境内 for architects to qualify for registration."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d5">"The standard provides guidelines for foundation design, which includes requirements for foundation pit excavation."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;聘用单位&quot;" target="&quot;建设工程勘察、设计、施工、监理、招标代理、造价咨询、施工图审查、城乡规划编制等单位&quot;">
+<edge source="&quot;《建筑地基处理技术规范》JGJ79-2012&quot;" target="&quot;地基垫层施工&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"These organizations are all valid types of 聘用单位 for registered architects."</data>
-  <data key="d6">chunk-28338494893396e62b5fdc05f12e1484</data>
+  <data key="d5">"The technical standard includes specifications for foundation treatment, which covers cushion layer construction."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;聘用单位&quot;" target="&quot;注册建筑师&quot;">
+<edge source="&quot;《建筑桩基技术规范》JGJ94-2008&quot;" target="&quot;基坑开挖&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The pile foundation standard includes requirements for excavation around piles to prevent damage."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;《地下工程防水技术规范》GB50108-2008&quot;" target="&quot;防水层施工&quot;">
   <data key="d4">9.0</data>
-  <data key="d5">"注册建筑师必须与聘用单位签订劳动合同，并在其资质下执业。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d5">"The waterproofing standard directly governs the construction of waterproof layers in underground engineering."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;聘用单位&quot;" target="&quot;注册机关&quot;">
+<edge source="&quot;基坑开挖&quot;" target="&quot;地基垫层施工&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Foundation cushion construction should follow immediately after excavation to protect the exposed foundation."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地基垫层施工&quot;" target="&quot;回填土&quot;">
   <data key="d4">7.0</data>
-  <data key="d5">"聘用单位需向注册机关提交相关材料以完成注册建筑师的注册或变更手续。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d5">"After cushion construction, backfilling should be done promptly to protect the foundation."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;聘用单位&quot;" target="&quot;资质证书&quot;">
+<edge source="&quot;回填土&quot;" target="&quot;压实试验&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"聘用单位必须持有有效的资质证书才能为注册建筑师提供执业资质。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d5">"Compaction tests are required to determine proper methods for backfilling operations."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;聘用单位&quot;" target="&quot;申请人&quot;">
+<edge source="&quot;回填土&quot;" target="&quot;防水层施工&quot;">
   <data key="d4">7.0</data>
-  <data key="d5">"Applicants are typically employed by organizations that may provide registration materials."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d5">"Waterproof layer construction must be completed before certain backfilling operations can proceed."</data>
+  <data key="d6">chunk-e03a4e26a8a02d2ba3459201a8062f40</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;执业印章&quot;" target="&quot;注册建筑师&quot;">
+<edge source="&quot;基坑回填土&quot;" target="&quot;沉降观测&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Both are critical construction events, with backfilling affecting the foundation that later undergoes settlement observation."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;基坑回填土&quot;" target="&quot;设备基础&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"基坑回填土 must meet specific compaction requirements when backfilling around 设备基础."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;基坑回填土&quot;" target="&quot;地面&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"基坑回填土 must meet specific compaction requirements when backfilling under 地面."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;基坑回填土&quot;" target="&quot;散水&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"基坑回填土 must meet specific compaction requirements when backfilling under 散水."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;基坑回填土&quot;" target="&quot;踏步&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"基坑回填土 must meet specific compaction requirements when backfilling under 踏步 foundations."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;基坑回填土&quot;" target="&quot;承台&quot;">
   <data key="d4">7.0</data>
-  <data key="d5">"注册建筑师需使用执业印章进行执业活动，遗失或污损需补办。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d5">"Special backfilling procedures apply when 承台 elevation is above design grade."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;执业印章&quot;" target="&quot;注销注册&quot;">
+<edge source="&quot;沉降观测&quot;" target="&quot;建筑变形测量规范&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"注册建筑师被注销注册时需交回执业印章或公告作废。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
+  <data key="d5">"沉降观测 follows the guidelines and standards set by the 建筑变形测量规范."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;执业印章&quot;" target="&quot;注册建筑师执业资格证书&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"Practicing seals are issued alongside qualification certificates to registered architects."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;注册机关&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"注册建筑师的所有注册手续均由注册机关处理，包括延续、变更和注销。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;注销注册&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"注册建筑师在特定情形下需办理注销注册，失去执业资格。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;继续教育&quot;">
-  <data key="d4">17.0</data>
-  <data key="d5">"注册建筑师 are required to complete 继续教育 to maintain their registration and professional qualifications."&lt;SEP&gt;"注册建筑师必须在注册期内完成继续教育要求才能申请延续注册。"</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;设计单位&quot;">
-  <data key="d4">17.0</data>
-  <data key="d5">"从事建筑工程设计的注册建筑师必须受聘并注册于具有工程设计资质的设计单位。"&lt;SEP&gt;"设计单位 must employ 注册建筑师 to legally conduct design work."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9&lt;SEP&gt;chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;工程设计资质单位&quot;">
+<edge source="&quot;沉降观测&quot;" target="&quot;JGJ 8-2016&quot;">
   <data key="d4">9.0</data>
-  <data key="d5">"注册建筑师 must be employed by 工程设计资质单位 to legally engage in professional design activities."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d5">"沉降观测 procedures must comply with JGJ 8-2016 standards."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;施工单位&quot;">
+<edge source="&quot;沉降观测&quot;" target="&quot;03ZG204&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"施工单位 must follow designs approved and signed by 注册建筑师."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d5">"沉降观测 point markers may follow 03ZG204 standard designs."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;监理单位&quot;">
+<edge source="&quot;地下室外墙、顶板防水施工&quot;" target="&quot;防水混凝土穿墙管件（盒）&quot;">
   <data key="d4">7.0</data>
-  <data key="d5">"监理单位 oversees projects designed by 注册建筑师 to ensure compliance."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
+  <data key="d5">"Both involve waterproofing measures in construction, with shared material and procedural standards."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;必修课&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"注册建筑师 must complete 必修课 as part of their continuing education."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册建筑师&quot;" target="&quot;选修课&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"注册建筑师 must complete 选修课 as part of their continuing education."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;注册机关&quot;" target="&quot;县级以上地方人民政府建设主管部门&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"县级以上地方人民政府建设主管部门应及时将注册建筑师的相关情况告知注册机关。"</data>
-  <data key="d6">chunk-09855fcd7dd9dfc61037fa17ea3c5316</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;建设单位&quot;" target="&quot;设计审查部门&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"建设单位 must submit designs to 设计审查部门 for approval before construction."</data>
-  <data key="d6">chunk-4652fd273717f4654c4a70e263f376f9</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;县级以上人民政府建设主管部门&quot;" target="&quot;县级以上人民政府人事主管部门&quot;">
-  <data key="d4">8.0</data>
-  <data key="d5">"Both local departments collaborate on architect management, with personnel and construction divisions."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;国务院人事主管部门&quot;" target="&quot;注册建筑师执业资格证书&quot;">
+<edge source="&quot;防水混凝土穿墙管件（盒）&quot;" target="&quot;给水排水构筑物工程施工及验收规范&quot;">
   <data key="d4">9.0</data>
-  <data key="d5">"The national personnel authority is responsible for the unified production of architect qualification certificates."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d5">"The installation of waterproof pipe fittings adheres to the standards specified in the 给水排水构筑物工程施工及验收规范."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;香港特别行政区、澳门特别行政区、台湾地区的专业技术人员&quot;" target="&quot;全国统一考试&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"Professional technicians from these regions can participate in the national unified exams under specific agreements."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+<edge source="&quot;防水混凝土穿墙管件（盒）&quot;" target="&quot;GB50141&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"防水混凝土穿墙管件（盒） installation must comply with GB50141 standards."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
   <data key="d7">1</data>
 </edge>
-<edge source="&quot;外籍专业技术人员&quot;" target="&quot;全国统一考试&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"Foreign professional technicians can participate in the national unified exams based on reciprocal agreements with their home countries."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;外籍专业技术人员&quot;" target="&quot;互认资格证书&quot;">
-  <data key="d4">7.0</data>
-  <data key="d5">"Foreign technicians may obtain mutual recognition certificates under reciprocal agreements."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
-  <data key="d7">1</data>
-</edge>
-<edge source="&quot;建设部&quot;" target="&quot;《中华人民共和国注册建筑师条例实施细则》&quot;">
+<edge source="&quot;防水混凝土穿墙管件（盒）&quot;" target="&quot;02S404&quot;">
   <data key="d4">8.0</data>
-  <data key="d5">"The former ministry issued these implementation rules in 1996 before they were repealed."</data>
-  <data key="d6">chunk-cbd1236197efba8c156e2f0e171783b0</data>
+  <data key="d5">"防水混凝土穿墙管件（盒） may reference 02S404 standard designs."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室底板&quot;" target="&quot;施工缝&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Specific requirements exist for 施工缝 location relative to 地下室底板."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室底板&quot;" target="&quot;补偿收缩混凝土&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"补偿收缩混凝土 is used in the construction of the 地下室底板, meeting specific material and standard requirements."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室底板&quot;" target="&quot;粉质黏土&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"粉质黏土 is part of the foundation bearing capacity table, which indirectly affects the construction requirements for the 地下室底板."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室底板&quot;" target="&quot;全风化片麻岩&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"全风化片麻岩 is part of the foundation bearing capacity table, which indirectly affects the construction requirements for the 地下室底板."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室底板&quot;" target="&quot;强风化片麻岩&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"强风化片麻岩 is part of the foundation bearing capacity table, which indirectly affects the construction requirements for the 地下室底板."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室底板&quot;" target="&quot;抗震设防烈度&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"抗震设防烈度 is a design standard that influences the construction and material requirements for the 地下室底板."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;GB50141&quot;" target="&quot;CONSTRUCTION UNIT&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The Construction Unit follows the standards set by GB50141 for construction and acceptance of water supply and drainage structures."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;GB50141&quot;" target="&quot;密实防水混凝土&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"GB50141 specifies the use of 密实防水混凝土 in water supply and drainage structures."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;02S404&quot;" target="&quot;CONSTRUCTION UNIT&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The Construction Unit references the 02S404 atlas for waterproof sleeve specifications during construction."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;02S404&quot;" target="&quot;防水套管&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The 防水套管 standard is part of the 02S404 national design atlas for waterproof sleeves."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;施工缝&quot;" target="&quot;水泥基渗透结晶型防水涂料&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"水泥基渗透结晶型防水涂料 is required treatment for 施工缝."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;施工缝&quot;" target="&quot;遇水膨胀止水条&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"遇水膨胀止水条 may be used in 施工缝 with specific performance requirements."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;施工缝&quot;" target="&quot;中埋式钢板止水带&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"中埋式钢板止水带 may be used in 施工缝 with specific installation requirements."</data>
+  <data key="d6">chunk-97dc43910477a3b331942cfaf8370bfa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;水泥基渗透结晶型防水涂料&quot;" target="&quot;负压抗渗处理&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"水泥基渗透结晶型防水涂料 is used in 负压抗渗处理 for waterproofing."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;22G101-1&quot;" target="&quot;CONSTRUCTION UNIT&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The Construction Unit uses the 22G101-1 atlas for detailing slab and beam construction in post-pouring belts."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;22G101-3&quot;" target="&quot;CONSTRUCTION UNIT&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The Construction Unit uses the 22G101-3 atlas for detailing foundation and underground wall construction in post-pouring belts."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CONSTRUCTION UNIT&quot;" target="&quot;DESIGN UNIT&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The Construction Unit collaborates with the Design Unit to ensure structural stability and safety during post-pouring belt construction."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CONSTRUCTION UNIT&quot;" target="&quot;SUPERVISION AGENCY&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The Construction Unit submits plans to the Supervision Agency for approval and compliance checks during construction."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CONSTRUCTION UNIT&quot;" target="&quot;临时荷载传力措施&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Construction Unit must propose 临时荷载传力措施 during post-pouring belt work."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;DESIGN UNIT&quot;" target="&quot;沉降观测数据&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"沉降观测数据 must be reviewed by the Design Unit before post-pouring belt construction."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;DESIGN UNIT&quot;" target="&quot;预控方案&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Design Unit reviews the 预控方案 for potential settlement issues."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;SUPERVISION AGENCY&quot;" target="&quot;合模计划&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"合模计划 must be approved by the Supervision Agency before implementation."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;POST-POURING BELT&quot;" target="&quot;EXPANSION STRENGTHENING BELT&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Both are construction events involving specific materials and techniques to ensure structural integrity and waterproofing."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;POST-POURING BELT&quot;" target="&quot;水泥基界面处理剂&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"水泥基界面处理剂 is used in surface preparation for Post-Pouring Belt concrete placement."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;防水套管&quot;" target="&quot;止水环&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"止水环 is a critical sealing component in 防水套管 installations."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;非承重内墙填充墙基础&quot;" target="&quot;回填土层&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"非承重内墙填充墙基础 construction requires proper compaction of 回填土层."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;补偿收缩混凝土&quot;" target="&quot;膨胀剂&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"补偿收缩混凝土 contains 膨胀剂 (12%-15% by cement weight) for shrinkage compensation."</data>
+  <data key="d6">chunk-2b3851fac534285ae2fb27ab70621c8a</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;补偿收缩混凝土&quot;" target="&quot;膨胀加强带&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"膨胀加强带 specifically uses 补偿收缩混凝土 with special expansion properties."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;膨胀剂&quot;" target="&quot;地下室大体积混凝土&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"膨胀剂 is added to 地下室大体积混凝土 for controlled expansion."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;低热水泥&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"低热水泥 is specified for use in 地下室大体积混凝土 to control heat generation."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;中热水泥&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"中热水泥 is an alternative cement type permitted for 地下室大体积混凝土."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;粉煤灰&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"粉煤灰 is added to 地下室大体积混凝土 mixes to reduce heat."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;磨细矿渣粉&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"磨细矿渣粉 is used in 地下室大体积混凝土 as supplementary cementitious material."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;减水剂&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"减水剂 is added to 地下室大体积混凝土 to improve workability."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;缓凝剂&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"缓凝剂 is used in 地下室大体积混凝土 for high-temperature conditions."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;循环水管&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"循环水管 is embedded in 地下室大体积混凝土 for temperature control."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;冷风管道&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"冷风管道 is used for cooling 地下室大体积混凝土 during curing."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;保温保湿养护&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"保温保湿养护 is required for proper curing of 地下室大体积混凝土."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;地下室大体积混凝土&quot;" target="&quot;连续浇筑&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"连续浇筑 is the specified placement method for 地下室大体积混凝土."</data>
+  <data key="d6">chunk-e2a70fabc9ad2db46169dea643d05c84</data>
   <data key="d7">1</data>
 </edge>
 </graph></graphml>

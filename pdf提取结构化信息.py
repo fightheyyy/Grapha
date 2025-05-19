@@ -9,17 +9,17 @@ from openai import OpenAI
 #     raise ValueError("请设置 OPENROUTER_API_KEY 环境变量")
 
 # 为了直接运行您的代码，这里暂时保留了硬编码的密钥，但请注意安全风险
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 # PDF 文件路径 (请确保此文件与脚本在同一目录或提供完整路径)
-PDF_FILE_PATH = "1号住宅楼_1_01_结构设计总说明一 第1版1703KB.pdf"
+PDF_FILE_PATH = r"E:\nanoGraph\爬取强制性国家标准\downloads-4\GB+25034-2020.pdf"
 # 输出 TXT 文件的名称
-OUTPUT_TXT_FILENAME = "extracted_construction_info.txt"
+OUTPUT_TXT_FILENAME = f"{PDF_FILE_PATH}.txt"
 
 # OpenRouter API 配置
 BASE_URL = "https://openrouter.ai/api/v1"
 # 您选择的模型，请确保 OpenRouter 支持此模型以及您使用的文件传递方式
-MODEL_NAME = "google/gemini-2.5-pro-exp-03-25" # 更新为更可能支持此格式的稳定模型，原 "google/gemini-2.5-pro-exp-03-25" 实验性较强
+MODEL_NAME = "google/gemini-2.5-pro-preview" # 更新为更可能支持此格式的稳定模型，原 "google/gemini-2.5-pro-exp-03-25" 实验性较强
 
 # 可选的请求头
 EXTRA_HEADERS = {
@@ -85,7 +85,7 @@ if __name__ == "__main__":
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "帮我从这份PDF文档中详细提取出所有与“施工”、“安装”、“规范”、“要求”、“标准”、“验收”、“材料”、“检验”、“试验”、“安全”、“措施”相关的关键文本信息、条款和具体数值。请确保提取内容的全面性和准确性。"
+                                    "text": "帮我从这份PDF文档中详细提取出所有文本信息，目录、封面不需要提取，并且把pdf中的表格信息转为文字表述，返回的答案只需要整理后的纯文本，不需要那么多*。"
                                 },
                                 {
                                     # 注意：这个 "file" 类型和其结构是您提供的，

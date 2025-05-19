@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.WARNING)
 logging.getLogger("nano-graphrag").setLevel(logging.INFO)
 
 GLM_API_KEY = "32923a88de554597868d4378df2dcea1.nahV3GFqfSIwnrCs"
-DEEPSEEK_API_KEY = "sk-9ab66debe3204da79dddac1d8049a54d"
+DEEPSEEK_API_KEY = "sk-6617ec8529ec49f8a632b7532d2c8760"
 
 MODEL = "deepseek-chat"
 
@@ -100,7 +100,7 @@ def query():
     )
     print(
         rag.query(
-            "法规主要讲什么", param=QueryParam(mode="global")
+            "砂垫层压实系数不小于？", param=QueryParam(mode="global")
         )
     )
 
@@ -108,7 +108,7 @@ def query():
 def insert():
     from time import time
 
-    with open("output.txt", encoding="utf-8-sig") as f:
+    with open("mohurd_word_documentsBeifen/历史文化名城名镇名村街区保护规划编制审批办法-文字版_word_saved.txt", encoding="utf-8-sig") as f:
         FAKE_TEXT = f.read()
 
     remove_if_exist(f"{WORKING_DIR}/vdb_entities.json")

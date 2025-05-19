@@ -1,553 +1,47 @@
 {
-  "7": {
-    "report_string": "# National and Provincial Registered Architect Management Committees\n\nThe community is centered around the National Registered Architect Management Committee and its provincial counterparts, which are responsible for the registration, certification, and regulation of architects in China. These entities collaborate with various government departments and experts to maintain professional standards and oversee the issuance of registration certificates and seals.\n\n## Central role of the National Registered Architect Management Committee\n\nThe National Registered Architect Management Committee is the central entity in this community, responsible for setting continuing education standards, issuing registration certificates and seals, and overseeing the work of provincial committees. Its collaboration with the State Council's construction department and other governmental bodies underscores its importance in the architectural profession.\n\n## Provincial committees' responsibilities\n\nProvincial, autonomous region, and municipal Registered Architect Management Committees play a crucial role in managing architect registration at the regional level. They issue second-level registered architect qualification certificates and handle registration applications, submitting initial applications to the national committee for approval.\n\n## Collaboration with government departments\n\nThe National Registered Architect Management Committee collaborates with the State Council's construction department and personnel authorities to appoint members and regulate professional standards. This collaboration highlights the committee's integration into the governmental framework for professional regulation.\n\n## Role of architectural design experts\n\nArchitectural design experts are members of the National Registered Architect Management Committee, contributing their expertise to the committee's decisions and standards. Their involvement ensures that the committee's regulations are informed by professional knowledge and experience.\n\n## Issuance of registration certificates and seals\n\nThe National Registered Architect Management Committee issues registration certificates and seals to approved architects, validating their professional status. This process is crucial for maintaining professional standards and public trust in the architectural profession.\n\n## Public announcement of registration approvals\n\nThe National Registered Architect Management Committee conducts public announcements (公示) of registration approval results, ensuring transparency in the registration process. This practice fosters trust among professionals and the public in the committee's operations.\n\n## International exchanges and standards setting\n\nThe National Registered Architect Management Committee is involved in setting standards for registered architects, including continuing education requirements, and participates in international exchanges. These activities contribute to the global professional development of architects and the harmonization of standards.",
-    "report_json": {
-      "title": "National and Provincial Registered Architect Management Committees",
-      "summary": "The community is centered around the National Registered Architect Management Committee and its provincial counterparts, which are responsible for the registration, certification, and regulation of architects in China. These entities collaborate with various government departments and experts to maintain professional standards and oversee the issuance of registration certificates and seals.",
-      "rating": 7.5,
-      "rating_explanation": "The impact severity rating is high due to the committees' critical role in regulating the architectural profession and ensuring public safety through professional standards.",
-      "findings": [
-        {
-          "summary": "Central role of the National Registered Architect Management Committee",
-          "explanation": "The National Registered Architect Management Committee is the central entity in this community, responsible for setting continuing education standards, issuing registration certificates and seals, and overseeing the work of provincial committees. Its collaboration with the State Council's construction department and other governmental bodies underscores its importance in the architectural profession."
-        },
-        {
-          "summary": "Provincial committees' responsibilities",
-          "explanation": "Provincial, autonomous region, and municipal Registered Architect Management Committees play a crucial role in managing architect registration at the regional level. They issue second-level registered architect qualification certificates and handle registration applications, submitting initial applications to the national committee for approval."
-        },
-        {
-          "summary": "Collaboration with government departments",
-          "explanation": "The National Registered Architect Management Committee collaborates with the State Council's construction department and personnel authorities to appoint members and regulate professional standards. This collaboration highlights the committee's integration into the governmental framework for professional regulation."
-        },
-        {
-          "summary": "Role of architectural design experts",
-          "explanation": "Architectural design experts are members of the National Registered Architect Management Committee, contributing their expertise to the committee's decisions and standards. Their involvement ensures that the committee's regulations are informed by professional knowledge and experience."
-        },
-        {
-          "summary": "Issuance of registration certificates and seals",
-          "explanation": "The National Registered Architect Management Committee issues registration certificates and seals to approved architects, validating their professional status. This process is crucial for maintaining professional standards and public trust in the architectural profession."
-        },
-        {
-          "summary": "Public announcement of registration approvals",
-          "explanation": "The National Registered Architect Management Committee conducts public announcements (公示) of registration approval results, ensuring transparency in the registration process. This practice fosters trust among professionals and the public in the committee's operations."
-        },
-        {
-          "summary": "International exchanges and standards setting",
-          "explanation": "The National Registered Architect Management Committee is involved in setting standards for registered architects, including continuing education requirements, and participates in international exchanges. These activities contribute to the global professional development of architects and the harmonization of standards."
-        }
-      ]
-    },
-    "level": 1,
-    "title": "Cluster 7",
-    "edges": [
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"国务院建设主管部门\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册证书\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"建筑设计专家\""
-      ],
-      [
-        "\"一级注册建筑师执业资格证书\"",
-        "\"全国注册建筑师管理委员会\""
-      ],
-      [
-        "\"二级注册建筑师执业资格证书\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
-      ],
-      [
-        "\"二级注册建筑师\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"公示\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册建筑师管理委员会\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"执业印章\""
-      ],
-      [
-        "\"一级注册建筑师\"",
-        "\"全国注册建筑师管理委员会\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"建设部执业资格注册中心\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"县级以上人民政府建设主管部门\""
-      ],
-      [
-        "\"人事主管部门\"",
-        "\"全国注册建筑师管理委员会\""
-      ]
-    ],
-    "nodes": [
-      "\"建设部执业资格注册中心\"",
-      "\"注册建筑师管理委员会\"",
-      "\"建筑设计专家\"",
-      "\"公示\"",
-      "\"省、自治区、直辖市注册建筑师管理委员会\"",
-      "\"全国注册建筑师管理委员会\"",
-      "\"注册证书\""
-    ],
-    "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0",
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-b2f82373ea218d877ff40910348ebfa4",
-      "chunk-4652fd273717f4654c4a70e263f376f9"
-    ],
-    "occurrence": 1.0,
-    "sub_communities": []
-  },
-  "6": {
-    "report_string": "# 注册建筑师考试 and Certification Community\n\nThe community centers around the 注册建筑师考试, an annual event for certifying architects at different levels. Key entities include 一级注册建筑师 and 二级注册建筑师, who are professional architects certified after passing the exam, and their respective qualification certification events. The national and provincial committees play crucial roles in issuing certificates and seals.\n\n## 注册建筑师考试 as the central event\n\nThe 注册建筑师考试 is the pivotal event in this community, serving as the gateway for individuals to qualify as registered architects. Its annual conduction underscores its importance in maintaining professional standards within the architectural field.\n\n## Role of 一级注册建筑师\n\n一级注册建筑师 are top-tier professionals who have passed the national first-level examination. Their certification by the national committee highlights their expertise and the trust placed in them to undertake significant architectural projects.\n\n## Role of 二级注册建筑师\n\n二级注册建筑师, certified by provincial committees, represent a vital segment of the architectural profession. Their certification ensures a broad base of qualified professionals capable of contributing to regional development projects.\n\n## Certification process for 一级注册建筑师\n\nThe process to obtain a 一级注册建筑师执业资格证书 involves passing the 注册建筑师考试 and approval by the national committee. This rigorous process ensures that only qualified individuals are granted the authority to practice at the highest level.\n\n## Certification process for 二级注册建筑师\n\nSimilarly, obtaining a 二级注册建筑师执业资格证书 requires passing the 注册建筑师考试 and approval by provincial committees. This ensures a standardized level of competence across all regions.\n\n## Importance of national and provincial committees\n\nThe 全国注册建筑师管理委员会 and 省、自治区、直辖市注册建筑师管理委员会 are instrumental in maintaining the integrity of the architectural profession. Their role in issuing certificates and seals is crucial for upholding professional standards and public trust.",
-    "report_json": {
-      "title": "注册建筑师考试 and Certification Community",
-      "summary": "The community centers around the 注册建筑师考试, an annual event for certifying architects at different levels. Key entities include 一级注册建筑师 and 二级注册建筑师, who are professional architects certified after passing the exam, and their respective qualification certification events. The national and provincial committees play crucial roles in issuing certificates and seals.",
-      "rating": 7.0,
-      "rating_explanation": "The impact severity rating is high due to the critical role of certified architects in ensuring the safety and integrity of architectural projects.",
-      "findings": [
-        {
-          "summary": "注册建筑师考试 as the central event",
-          "explanation": "The 注册建筑师考试 is the pivotal event in this community, serving as the gateway for individuals to qualify as registered architects. Its annual conduction underscores its importance in maintaining professional standards within the architectural field."
-        },
-        {
-          "summary": "Role of 一级注册建筑师",
-          "explanation": "一级注册建筑师 are top-tier professionals who have passed the national first-level examination. Their certification by the national committee highlights their expertise and the trust placed in them to undertake significant architectural projects."
-        },
-        {
-          "summary": "Role of 二级注册建筑师",
-          "explanation": "二级注册建筑师, certified by provincial committees, represent a vital segment of the architectural profession. Their certification ensures a broad base of qualified professionals capable of contributing to regional development projects."
-        },
-        {
-          "summary": "Certification process for 一级注册建筑师",
-          "explanation": "The process to obtain a 一级注册建筑师执业资格证书 involves passing the 注册建筑师考试 and approval by the national committee. This rigorous process ensures that only qualified individuals are granted the authority to practice at the highest level."
-        },
-        {
-          "summary": "Certification process for 二级注册建筑师",
-          "explanation": "Similarly, obtaining a 二级注册建筑师执业资格证书 requires passing the 注册建筑师考试 and approval by provincial committees. This ensures a standardized level of competence across all regions."
-        },
-        {
-          "summary": "Importance of national and provincial committees",
-          "explanation": "The 全国注册建筑师管理委员会 and 省、自治区、直辖市注册建筑师管理委员会 are instrumental in maintaining the integrity of the architectural profession. Their role in issuing certificates and seals is crucial for upholding professional standards and public trust."
-        }
-      ]
-    },
-    "level": 1,
-    "title": "Cluster 6",
-    "edges": [
-      [
-        "\"一级注册建筑师执业资格证书\"",
-        "\"注册建筑师考试\""
-      ],
-      [
-        "\"二级注册建筑师\"",
-        "\"注册建筑师考试\""
-      ],
-      [
-        "\"二级注册建筑师执业资格证书\"",
-        "\"注册建筑师考试\""
-      ],
-      [
-        "\"一级注册建筑师执业资格证书\"",
-        "\"全国注册建筑师管理委员会\""
-      ],
-      [
-        "\"一级注册建筑师\"",
-        "\"注册建筑师考试\""
-      ],
-      [
-        "\"二级注册建筑师\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
-      ],
-      [
-        "\"二级注册建筑师执业资格证书\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
-      ],
-      [
-        "\"一级注册建筑师\"",
-        "\"全国注册建筑师管理委员会\""
-      ]
-    ],
-    "nodes": [
-      "\"一级注册建筑师\"",
-      "\"二级注册建筑师\"",
-      "\"注册建筑师考试\"",
-      "\"一级注册建筑师执业资格证书\"",
-      "\"二级注册建筑师执业资格证书\""
-    ],
-    "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0",
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-b2f82373ea218d877ff40910348ebfa4"
-    ],
-    "occurrence": 0.75,
-    "sub_communities": []
-  },
-  "10": {
-    "report_string": "# 执业印章 and Registered Architects Certification\n\nThe community centers around the '执业印章' (practicing seal) and its role in the certification and regulation of registered architects. Key entities include the '全国注册建筑师管理委员会' (National Registered Architects Management Committee), which issues the seals, and the '国务院人事主管部门' (State Council Personnel Authority), responsible for the production of architect qualification certificates. The relationships highlight the importance of the seal in professional practice and the procedures for certification and deregistration.\n\n## Central role of '执业印章' in professional practice\n\nThe '执业印章' is a critical entity, serving as the official seal for registered architects, essential for their professional activities. Its issuance by the '全国注册建筑师管理委员会' underscores its importance in validating an architect's legal practicing status. The seal's loss or damage necessitates reissuance, indicating its indispensable role in the profession.\n\n## Certification process by the State Council Personnel Authority\n\nThe '国务院人事主管部门' plays a pivotal role in the community by overseeing the unified production of architect qualification certificates. This process is foundational for architects to gain their practicing status, linking directly to the issuance of the '执业印章' and establishing a standardized certification framework.\n\n## Deregistration procedures and their implications\n\nDeregistration events, where architects lose their practicing status, involve the return or invalidation of the '执业印章'. This procedure, managed by the '全国注册建筑师管理委员会', highlights the regulatory mechanisms in place to maintain professional standards and the consequences of non-compliance or specific conditions leading to loss of certification.\n\n## Interdependence of certification and seal issuance\n\nThe relationship between the '执业印章' and the '注册建筑师执业资格证书' (architect qualification certificate) illustrates the integrated process of professional validation. The seal is issued alongside the certificate, emphasizing the dual requirements for architects to legally practice, thereby ensuring a comprehensive approach to professional accreditation.\n\n## Regulatory oversight by the National Registered Architects Management Committee\n\nThe '全国注册建筑师管理委员会' is a key regulatory body, issuing the '执业印章' and overseeing the deregistration process. Its role ensures that only qualified individuals practice architecture, safeguarding professional standards and public trust in architectural services.",
-    "report_json": {
-      "title": "执业印章 and Registered Architects Certification",
-      "summary": "The community centers around the '执业印章' (practicing seal) and its role in the certification and regulation of registered architects. Key entities include the '全国注册建筑师管理委员会' (National Registered Architects Management Committee), which issues the seals, and the '国务院人事主管部门' (State Council Personnel Authority), responsible for the production of architect qualification certificates. The relationships highlight the importance of the seal in professional practice and the procedures for certification and deregistration.",
-      "rating": 6.0,
-      "rating_explanation": "The impact severity rating is significant due to the legal and professional implications of the certification and deregistration processes for architects.",
-      "findings": [
-        {
-          "summary": "Central role of '执业印章' in professional practice",
-          "explanation": "The '执业印章' is a critical entity, serving as the official seal for registered architects, essential for their professional activities. Its issuance by the '全国注册建筑师管理委员会' underscores its importance in validating an architect's legal practicing status. The seal's loss or damage necessitates reissuance, indicating its indispensable role in the profession."
-        },
-        {
-          "summary": "Certification process by the State Council Personnel Authority",
-          "explanation": "The '国务院人事主管部门' plays a pivotal role in the community by overseeing the unified production of architect qualification certificates. This process is foundational for architects to gain their practicing status, linking directly to the issuance of the '执业印章' and establishing a standardized certification framework."
-        },
-        {
-          "summary": "Deregistration procedures and their implications",
-          "explanation": "Deregistration events, where architects lose their practicing status, involve the return or invalidation of the '执业印章'. This procedure, managed by the '全国注册建筑师管理委员会', highlights the regulatory mechanisms in place to maintain professional standards and the consequences of non-compliance or specific conditions leading to loss of certification."
-        },
-        {
-          "summary": "Interdependence of certification and seal issuance",
-          "explanation": "The relationship between the '执业印章' and the '注册建筑师执业资格证书' (architect qualification certificate) illustrates the integrated process of professional validation. The seal is issued alongside the certificate, emphasizing the dual requirements for architects to legally practice, thereby ensuring a comprehensive approach to professional accreditation."
-        },
-        {
-          "summary": "Regulatory oversight by the National Registered Architects Management Committee",
-          "explanation": "The '全国注册建筑师管理委员会' is a key regulatory body, issuing the '执业印章' and overseeing the deregistration process. Its role ensures that only qualified individuals practice architecture, safeguarding professional standards and public trust in architectural services."
-        }
-      ]
-    },
-    "level": 1,
-    "title": "Cluster 10",
-    "edges": [
-      [
-        "\"国务院人事主管部门\"",
-        "\"注册建筑师执业资格证书\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"注销注册\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"执业印章\""
-      ],
-      [
-        "\"执业印章\"",
-        "\"注销注册\""
-      ],
-      [
-        "\"执业印章\"",
-        "\"注册建筑师执业资格证书\""
-      ],
-      [
-        "\"执业印章\"",
-        "\"注册建筑师\""
-      ]
-    ],
-    "nodes": [
-      "\"注册建筑师执业资格证书\"",
-      "\"国务院人事主管部门\"",
-      "\"注销注册\"",
-      "\"执业印章\""
-    ],
-    "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0",
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-09855fcd7dd9dfc61037fa17ea3c5316"
-    ],
-    "occurrence": 0.75,
-    "sub_communities": []
-  },
-  "9": {
-    "report_string": "# Registered Architects and Their Professional Ecosystem\n\nThe community centers around registered architects (注册建筑师) and their mandatory continuing education (继续教育), within a structured professional ecosystem that includes工程设计资质单位,施工单位,监理单位, and设计单位. These entities are interconnected through regulatory and professional relationships, ensuring compliance and quality in the construction and design industry.\n\n## Central Role of Registered Architects\n\nRegistered architects (注册建筑师) are at the heart of this community, required to be registered and employed within the中华人民共和国 to practice legally. Their professional activities are closely regulated, emphasizing their importance in the construction and design industry.\n\n## Mandatory Continuing Education\n\nContinuing education (继续教育) is a critical requirement for registered architects to maintain their qualifications. This includes both必修课 (mandatory courses) and选修课 (elective courses), highlighting the emphasis on continuous professional development.\n\n## Regulatory Oversight\n\nThe community is under the oversight of the国务院建设主管部门 and the全国注册建筑师管理委员会, which set and enforce the standards for注册建筑师, including continuing education and professional conduct.\n\n## Employment by Qualified Organizations\n\nRegistered architects must be employed by工程设计资质单位 (organizations with engineering design qualifications) to legally engage in professional design activities. This ensures that only qualified professionals are involved in critical design work.\n\n## Compliance and Quality Assurance\n\n施工单位 (construction companies) must comply with designs approved by registered architects, and监理单位 (supervision organizations) oversee project quality and compliance. This structure ensures that construction projects meet required standards.\n\n## Design Units' Role\n\n设计单位 (design organizations) must employ registered architects to legally conduct design work, reinforcing the architects' central role in the design and construction process.\n\n## Professional Tools and Procedures\n\nRegistered architects use执业印章 (professional seals) for their activities, and must handle registration procedures, including延续注册 (renewal),变更 (changes), and注销注册 (cancellation), through the注册机关 (registration authority).",
-    "report_json": {
-      "title": "Registered Architects and Their Professional Ecosystem",
-      "summary": "The community centers around registered architects (注册建筑师) and their mandatory continuing education (继续教育), within a structured professional ecosystem that includes工程设计资质单位,施工单位,监理单位, and设计单位. These entities are interconnected through regulatory and professional relationships, ensuring compliance and quality in the construction and design industry.",
-      "rating": 7.5,
-      "rating_explanation": "The impact severity rating is high due to the critical role registered architects play in ensuring the safety and compliance of construction projects.",
-      "findings": [
-        {
-          "summary": "Central Role of Registered Architects",
-          "explanation": "Registered architects (注册建筑师) are at the heart of this community, required to be registered and employed within the中华人民共和国 to practice legally. Their professional activities are closely regulated, emphasizing their importance in the construction and design industry."
-        },
-        {
-          "summary": "Mandatory Continuing Education",
-          "explanation": "Continuing education (继续教育) is a critical requirement for registered architects to maintain their qualifications. This includes both必修课 (mandatory courses) and选修课 (elective courses), highlighting the emphasis on continuous professional development."
-        },
-        {
-          "summary": "Regulatory Oversight",
-          "explanation": "The community is under the oversight of the国务院建设主管部门 and the全国注册建筑师管理委员会, which set and enforce the standards for注册建筑师, including continuing education and professional conduct."
-        },
-        {
-          "summary": "Employment by Qualified Organizations",
-          "explanation": "Registered architects must be employed by工程设计资质单位 (organizations with engineering design qualifications) to legally engage in professional design activities. This ensures that only qualified professionals are involved in critical design work."
-        },
-        {
-          "summary": "Compliance and Quality Assurance",
-          "explanation": "施工单位 (construction companies) must comply with designs approved by registered architects, and监理单位 (supervision organizations) oversee project quality and compliance. This structure ensures that construction projects meet required standards."
-        },
-        {
-          "summary": "Design Units' Role",
-          "explanation": "设计单位 (design organizations) must employ registered architects to legally conduct design work, reinforcing the architects' central role in the design and construction process."
-        },
-        {
-          "summary": "Professional Tools and Procedures",
-          "explanation": "Registered architects use执业印章 (professional seals) for their activities, and must handle registration procedures, including延续注册 (renewal),变更 (changes), and注销注册 (cancellation), through the注册机关 (registration authority)."
-        }
-      ]
-    },
-    "level": 1,
-    "title": "Cluster 9",
-    "edges": [
-      [
-        "\"国务院建设主管部门\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"延续注册\"",
-        "\"继续教育\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"继续教育\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"聘用单位\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"设计单位\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"注销注册\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"监理单位\""
-      ],
-      [
-        "\"必修课\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"施工单位\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"工程设计资质单位\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"中华人民共和国\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"注册机关\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"选修课\""
-      ],
-      [
-        "\"执业印章\"",
-        "\"注册建筑师\""
-      ]
-    ],
-    "nodes": [
-      "\"注册建筑师\"",
-      "\"监理单位\"",
-      "\"必修课\"",
-      "\"施工单位\"",
-      "\"工程设计资质单位\"",
-      "\"设计单位\"",
-      "\"选修课\"",
-      "\"继续教育\""
-    ],
-    "chunk_ids": [
-      "chunk-09855fcd7dd9dfc61037fa17ea3c5316",
-      "chunk-4652fd273717f4654c4a70e263f376f9"
-    ],
-    "occurrence": 0.5,
-    "sub_communities": []
-  },
-  "8": {
-    "report_string": "# Local Government Construction and Personnel Departments\n\nThe community consists of local government departments at the county level or above, specifically the construction and personnel departments. These entities collaborate on architect management, with the construction departments enforcing penalties for violations of architectural regulations and the personnel departments involved in architect management. The national committee oversees registration and certification, indicating a hierarchical relationship within the community.\n\n## Hierarchical structure within the community\n\nThe community exhibits a clear hierarchical structure, with the national committee overseeing registration and certification, and local departments enforcing regulations and managing architects. This structure ensures a centralized oversight mechanism while allowing for localized enforcement and management.\n\n## Collaboration between construction and personnel departments\n\nThe construction and personnel departments at the county level or above collaborate on architect management. This collaboration is crucial for ensuring that architects are not only qualified but also adhere to architectural regulations, thereby maintaining standards and safety in construction projects.\n\n## Enforcement of architectural regulations\n\nLocal construction departments are responsible for enforcing penalties for violations of architectural regulations. This enforcement role is vital for maintaining the integrity and safety of construction projects, highlighting the department's significant impact on the architectural and construction industries.\n\n## Role of the national committee\n\nThe national committee plays a pivotal role in the community by overseeing the registration and certification of architects. This role ensures that only qualified individuals are allowed to practice, thereby upholding professional standards and protecting public interest in construction projects.",
-    "report_json": {
-      "title": "Local Government Construction and Personnel Departments",
-      "summary": "The community consists of local government departments at the county level or above, specifically the construction and personnel departments. These entities collaborate on architect management, with the construction departments enforcing penalties for violations of architectural regulations and the personnel departments involved in architect management. The national committee oversees registration and certification, indicating a hierarchical relationship within the community.",
-      "rating": 6.0,
-      "rating_explanation": "The impact severity rating is moderately high due to the regulatory and enforcement roles of the entities involved, which can significantly affect architectural practices and compliance.",
-      "findings": [
-        {
-          "summary": "Hierarchical structure within the community",
-          "explanation": "The community exhibits a clear hierarchical structure, with the national committee overseeing registration and certification, and local departments enforcing regulations and managing architects. This structure ensures a centralized oversight mechanism while allowing for localized enforcement and management."
-        },
-        {
-          "summary": "Collaboration between construction and personnel departments",
-          "explanation": "The construction and personnel departments at the county level or above collaborate on architect management. This collaboration is crucial for ensuring that architects are not only qualified but also adhere to architectural regulations, thereby maintaining standards and safety in construction projects."
-        },
-        {
-          "summary": "Enforcement of architectural regulations",
-          "explanation": "Local construction departments are responsible for enforcing penalties for violations of architectural regulations. This enforcement role is vital for maintaining the integrity and safety of construction projects, highlighting the department's significant impact on the architectural and construction industries."
-        },
-        {
-          "summary": "Role of the national committee",
-          "explanation": "The national committee plays a pivotal role in the community by overseeing the registration and certification of architects. This role ensures that only qualified individuals are allowed to practice, thereby upholding professional standards and protecting public interest in construction projects."
-        }
-      ]
-    },
-    "level": 1,
-    "title": "Cluster 8",
-    "edges": [
-      [
-        "\"县级以上人民政府人事主管部门\"",
-        "\"县级以上人民政府建设主管部门\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"县级以上人民政府建设主管部门\""
-      ]
-    ],
-    "nodes": [
-      "\"县级以上人民政府建设主管部门\"",
-      "\"县级以上人民政府人事主管部门\""
-    ],
-    "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0"
-    ],
-    "occurrence": 0.25,
-    "sub_communities": []
-  },
-  "3": {
-    "report_string": "# 中华人民共和国 and Architectural Regulations\n\nThe community is centered around the People's Republic of China (中华人民共和国) and its architectural regulations, specifically the 中华人民共和国注册建筑师条例实施细则. Key entities include the Ministry of Housing and Urban-Rural Development (住房和城乡建设部) and construction survey organizations (建设工程勘察单位), all operating within the legal framework of China. The relationships highlight the enforcement and regulation of architectural practices within the country.\n\n## Central Role of 中华人民共和国\n\n中华人民共和国 serves as the geographical and legal foundation for all architectural practices and regulations within its borders. The country's laws mandate that all architectural activities, including the registration and employment of architects, must comply with its regulations. This central role underscores the importance of 中华人民共和国 in maintaining standards and safety in the construction and design sectors.\n\n## Importance of 中华人民共和国注册建筑师条例实施细则\n\nThe 中华人民共和国注册建筑师条例实施细则 is a critical set of regulations governing the examination, registration, practice, and continuing education of architects in China. Issued by the 住房和城乡建设部, these rules ensure that architects meet the necessary qualifications and standards, thereby safeguarding the quality and safety of architectural projects.\n\n## Role of 住房和城乡建设部\n\nThe 住房和城乡建设部 is a key government department responsible for the oversight of registered architects and the enforcement of architectural regulations. Its authority to issue and enforce these regulations plays a vital role in maintaining professional standards and ensuring compliance within the architectural community.\n\n## 建设工程勘察单位 in the Architectural Ecosystem\n\n建设工程勘察单位 are organizations involved in construction project surveys, operating within China's legal framework. These units are permitted to employ registered architects, linking them directly to the enforcement of architectural standards and regulations. Their role is essential in the initial stages of construction projects, ensuring that designs are feasible and comply with national standards.\n\n## Legal Framework and Compliance\n\nThe relationships between the entities highlight a comprehensive legal framework that governs architectural practices in China. Compliance with these regulations is mandatory, emphasizing the country's commitment to maintaining high standards in construction and design. This framework not only regulates the profession but also protects public interests by ensuring that all architectural activities meet established safety and quality criteria.",
-    "report_json": {
-      "title": "中华人民共和国 and Architectural Regulations",
-      "summary": "The community is centered around the People's Republic of China (中华人民共和国) and its architectural regulations, specifically the 中华人民共和国注册建筑师条例实施细则. Key entities include the Ministry of Housing and Urban-Rural Development (住房和城乡建设部) and construction survey organizations (建设工程勘察单位), all operating within the legal framework of China. The relationships highlight the enforcement and regulation of architectural practices within the country.",
-      "rating": 7.5,
-      "rating_explanation": "The impact severity rating is high due to the significant role of architectural regulations in ensuring public safety and urban development.",
-      "findings": [
-        {
-          "summary": "Central Role of 中华人民共和国",
-          "explanation": "中华人民共和国 serves as the geographical and legal foundation for all architectural practices and regulations within its borders. The country's laws mandate that all architectural activities, including the registration and employment of architects, must comply with its regulations. This central role underscores the importance of 中华人民共和国 in maintaining standards and safety in the construction and design sectors."
-        },
-        {
-          "summary": "Importance of 中华人民共和国注册建筑师条例实施细则",
-          "explanation": "The 中华人民共和国注册建筑师条例实施细则 is a critical set of regulations governing the examination, registration, practice, and continuing education of architects in China. Issued by the 住房和城乡建设部, these rules ensure that architects meet the necessary qualifications and standards, thereby safeguarding the quality and safety of architectural projects."
-        },
-        {
-          "summary": "Role of 住房和城乡建设部",
-          "explanation": "The 住房和城乡建设部 is a key government department responsible for the oversight of registered architects and the enforcement of architectural regulations. Its authority to issue and enforce these regulations plays a vital role in maintaining professional standards and ensuring compliance within the architectural community."
-        },
-        {
-          "summary": "建设工程勘察单位 in the Architectural Ecosystem",
-          "explanation": "建设工程勘察单位 are organizations involved in construction project surveys, operating within China's legal framework. These units are permitted to employ registered architects, linking them directly to the enforcement of architectural standards and regulations. Their role is essential in the initial stages of construction projects, ensuring that designs are feasible and comply with national standards."
-        },
-        {
-          "summary": "Legal Framework and Compliance",
-          "explanation": "The relationships between the entities highlight a comprehensive legal framework that governs architectural practices in China. Compliance with these regulations is mandatory, emphasizing the country's commitment to maintaining high standards in construction and design. This framework not only regulates the profession but also protects public interests by ensuring that all architectural activities meet established safety and quality criteria."
-        }
-      ]
-    },
-    "level": 0,
-    "title": "Cluster 3",
-    "edges": [
-      [
-        "\"中华人民共和国\"",
-        "\"建设工程勘察单位\""
-      ],
-      [
-        "\"中华人民共和国\"",
-        "\"中华人民共和国注册建筑师条例实施细则\""
-      ],
-      [
-        "\"X住房和城乡建设部\"",
-        "\"中华人民共和国\""
-      ],
-      [
-        "\"中华人民共和国\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"中华人民共和国注册建筑师条例实施细则\"",
-        "\"住房和城乡建设部\""
-      ]
-    ],
-    "nodes": [
-      "\"X住房和城乡建设部\"",
-      "\"中华人民共和国\"",
-      "\"建设工程勘察单位\"",
-      "\"住房和城乡建设部\"",
-      "\"中华人民共和国注册建筑师条例实施细则\""
-    ],
-    "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0",
-      "chunk-09855fcd7dd9dfc61037fa17ea3c5316",
-      "chunk-b2f82373ea218d877ff40910348ebfa4",
-      "chunk-4652fd273717f4654c4a70e263f376f9"
-    ],
-    "occurrence": 1.0,
-    "sub_communities": []
-  },
   "0": {
-    "report_string": "# National and Regional Architect Management Committees\n\nThe community is centered around the National Registered Architect Management Committee and its regional counterparts, which are responsible for the registration, certification, and regulation of architects in China. These entities collaborate with various government departments and organizations to manage architect qualifications, examinations, and professional standards.\n\n## Central role of the National Registered Architect Management Committee\n\nThe National Registered Architect Management Committee is the central entity in this community, responsible for setting continuing education standards, issuing registration certificates and seals, and overseeing the work of regional committees. Its collaboration with the State Council's construction department and local government departments underscores its importance in the architectural profession.\n\n## Hierarchical structure of architect management\n\nThe community exhibits a clear hierarchical structure, with the national committee overseeing regional committees. This structure ensures a standardized approach to architect registration and certification across different administrative levels, facilitating professional consistency and regulatory compliance.\n\n## Importance of the architect examination system\n\nThe architect examination system is a pivotal event within the community, serving as the gateway for individuals to qualify as registered architects. The national and regional committees' involvement in this process highlights its significance in maintaining professional standards and ensuring the competence of practicing architects.\n\n## Collaboration between government departments\n\nThe collaboration between the National Registered Architect Management Committee and various government departments, including construction and personnel departments, is crucial for the effective regulation of the architectural profession. This partnership facilitates the enforcement of penalties for violations and the administration of architect qualifications.\n\n## Role of architectural design experts\n\nArchitectural design experts play a key role within the National Registered Architect Management Committee, contributing their specialized knowledge to the committee's work. Their involvement ensures that the committee's decisions and standards are informed by professional expertise and best practices in architectural design.\n\n## Public announcement of registration approvals\n\nThe public announcement of registration approvals by the national committee is a critical transparency measure. This practice ensures that the registration process is open and accountable, fostering trust in the professional standards and regulatory framework of the architectural profession.\n\n## International exchanges and standards setting\n\nThe National Registered Architect Management Committee's involvement in international exchanges and standards setting highlights its role in aligning China's architectural profession with global best practices. This engagement promotes professional development and enhances the international recognition of Chinese architects.",
+    "report_string": "# Protection Planning and Historical Cultural Preservation\n\nThe community is centered around the protection planning of historical and cultural cities, towns, villages, and blocks in China, involving various entities such as the Ministry of Housing and Urban-Rural Development, local governments, and urban planning units. These entities collaborate to ensure the preservation and proper utilization of historical sites and intangible cultural heritage.\n\n## Central Role of Protection Planning\n\nProtection planning is the cornerstone of this community, dictating the preservation efforts for historical and cultural sites. It involves a systematic process that includes preparation, approval, modification, and enforcement, ensuring that these sites are protected according to national standards.\n\n## Regulatory Framework\n\nThe Ministry of Housing and Urban-Rural Development plays a pivotal role by issuing regulations and overseeing the implementation of protection planning. This ensures a unified approach to preserving China's cultural heritage across different regions.\n\n## Local Government Involvement\n\nLocal governments are responsible for organizing the preparation and enforcement of protection plans. Their involvement is crucial for tailoring preservation efforts to the specific needs and characteristics of each historical and cultural site.\n\n## Importance of Historical Buildings\n\nHistorical buildings are a key focus of protection planning, requiring detailed documentation and specific protection measures. Their preservation is vital for maintaining the architectural and cultural integrity of historical areas.\n\n## Public Participation through Hearings\n\nPublic hearings are an integral part of the protection planning process, ensuring transparency and stakeholder participation. This democratic approach helps in addressing the concerns and suggestions of the community regarding preservation efforts.\n\n## Alignment with Urban and Rural Planning\n\nProtection planning must align with urban and rural planning systems to ensure coordinated preservation and development. This integration is essential for balancing the needs of modernization with the imperative to conserve cultural heritage.\n\n## Legal Basis for Protection\n\nThe Urban and Rural Planning Law and the Regulations on the Protection of Historical and Cultural Cities, Towns, and Villages provide the legal framework for protection planning. These laws ensure that preservation efforts are grounded in a robust legal foundation.\n\n## Role of Professional Planning Units\n\nQualified urban and rural planning units are tasked with drafting protection plans. Their expertise is critical for ensuring that preservation efforts are scientifically sound and culturally sensitive.\n\n## Preservation of Intangible Cultural Heritage\n\nProtection planning also addresses the preservation of intangible cultural heritage, ensuring that traditional practices and knowledge are passed down to future generations. This aspect of preservation is crucial for maintaining the living culture of historical areas.",
     "report_json": {
-      "title": "National and Regional Architect Management Committees",
-      "summary": "The community is centered around the National Registered Architect Management Committee and its regional counterparts, which are responsible for the registration, certification, and regulation of architects in China. These entities collaborate with various government departments and organizations to manage architect qualifications, examinations, and professional standards.",
+      "title": "Protection Planning and Historical Cultural Preservation",
+      "summary": "The community is centered around the protection planning of historical and cultural cities, towns, villages, and blocks in China, involving various entities such as the Ministry of Housing and Urban-Rural Development, local governments, and urban planning units. These entities collaborate to ensure the preservation and proper utilization of historical sites and intangible cultural heritage.",
       "rating": 7.5,
-      "rating_explanation": "The impact severity rating is high due to the critical role these committees play in maintaining professional standards and regulating the architectural profession in China.",
+      "rating_explanation": "The impact severity rating is high due to the significant cultural and historical value of the sites involved and the comprehensive regulatory framework governing their preservation.",
       "findings": [
         {
-          "summary": "Central role of the National Registered Architect Management Committee",
-          "explanation": "The National Registered Architect Management Committee is the central entity in this community, responsible for setting continuing education standards, issuing registration certificates and seals, and overseeing the work of regional committees. Its collaboration with the State Council's construction department and local government departments underscores its importance in the architectural profession."
+          "summary": "Central Role of Protection Planning",
+          "explanation": "Protection planning is the cornerstone of this community, dictating the preservation efforts for historical and cultural sites. It involves a systematic process that includes preparation, approval, modification, and enforcement, ensuring that these sites are protected according to national standards."
         },
         {
-          "summary": "Hierarchical structure of architect management",
-          "explanation": "The community exhibits a clear hierarchical structure, with the national committee overseeing regional committees. This structure ensures a standardized approach to architect registration and certification across different administrative levels, facilitating professional consistency and regulatory compliance."
+          "summary": "Regulatory Framework",
+          "explanation": "The Ministry of Housing and Urban-Rural Development plays a pivotal role by issuing regulations and overseeing the implementation of protection planning. This ensures a unified approach to preserving China's cultural heritage across different regions."
         },
         {
-          "summary": "Importance of the architect examination system",
-          "explanation": "The architect examination system is a pivotal event within the community, serving as the gateway for individuals to qualify as registered architects. The national and regional committees' involvement in this process highlights its significance in maintaining professional standards and ensuring the competence of practicing architects."
+          "summary": "Local Government Involvement",
+          "explanation": "Local governments are responsible for organizing the preparation and enforcement of protection plans. Their involvement is crucial for tailoring preservation efforts to the specific needs and characteristics of each historical and cultural site."
         },
         {
-          "summary": "Collaboration between government departments",
-          "explanation": "The collaboration between the National Registered Architect Management Committee and various government departments, including construction and personnel departments, is crucial for the effective regulation of the architectural profession. This partnership facilitates the enforcement of penalties for violations and the administration of architect qualifications."
+          "summary": "Importance of Historical Buildings",
+          "explanation": "Historical buildings are a key focus of protection planning, requiring detailed documentation and specific protection measures. Their preservation is vital for maintaining the architectural and cultural integrity of historical areas."
         },
         {
-          "summary": "Role of architectural design experts",
-          "explanation": "Architectural design experts play a key role within the National Registered Architect Management Committee, contributing their specialized knowledge to the committee's work. Their involvement ensures that the committee's decisions and standards are informed by professional expertise and best practices in architectural design."
+          "summary": "Public Participation through Hearings",
+          "explanation": "Public hearings are an integral part of the protection planning process, ensuring transparency and stakeholder participation. This democratic approach helps in addressing the concerns and suggestions of the community regarding preservation efforts."
         },
         {
-          "summary": "Public announcement of registration approvals",
-          "explanation": "The public announcement of registration approvals by the national committee is a critical transparency measure. This practice ensures that the registration process is open and accountable, fostering trust in the professional standards and regulatory framework of the architectural profession."
+          "summary": "Alignment with Urban and Rural Planning",
+          "explanation": "Protection planning must align with urban and rural planning systems to ensure coordinated preservation and development. This integration is essential for balancing the needs of modernization with the imperative to conserve cultural heritage."
         },
         {
-          "summary": "International exchanges and standards setting",
-          "explanation": "The National Registered Architect Management Committee's involvement in international exchanges and standards setting highlights its role in aligning China's architectural profession with global best practices. This engagement promotes professional development and enhances the international recognition of Chinese architects."
+          "summary": "Legal Basis for Protection",
+          "explanation": "The Urban and Rural Planning Law and the Regulations on the Protection of Historical and Cultural Cities, Towns, and Villages provide the legal framework for protection planning. These laws ensure that preservation efforts are grounded in a robust legal foundation."
+        },
+        {
+          "summary": "Role of Professional Planning Units",
+          "explanation": "Qualified urban and rural planning units are tasked with drafting protection plans. Their expertise is critical for ensuring that preservation efforts are scientifically sound and culturally sensitive."
+        },
+        {
+          "summary": "Preservation of Intangible Cultural Heritage",
+          "explanation": "Protection planning also addresses the preservation of intangible cultural heritage, ensuring that traditional practices and knowledge are passed down to future generations. This aspect of preservation is crucial for maintaining the living culture of historical areas."
         }
       ]
     },
@@ -555,233 +49,123 @@
     "title": "Cluster 0",
     "edges": [
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册建筑师管理委员会\""
+        "\"保护规划\"",
+        "\"城乡规划主管部门\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"国务院建设主管部门\""
+        "\"中华人民共和国住房和城乡建设部\"",
+        "\"保护规划\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册证书\""
+        "\"保护规划\"",
+        "\"城乡规划\""
       ],
       [
-        "\"一级注册建筑师执业资格证书\"",
-        "\"注册建筑师考试\""
+        "\"保护规划\"",
+        "\"历史文化名城\""
       ],
       [
-        "\"二级注册建筑师执业资格证书\"",
-        "\"注册建筑师考试\""
+        "\"保护规划\"",
+        "\"历史文化名镇\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"公示\""
+        "\"保护规划\"",
+        "\"非物质文化遗产\""
       ],
       [
-        "\"一级注册建筑师\"",
-        "\"全国注册建筑师管理委员会\""
+        "\"保护规划\"",
+        "\"城乡规划编制单位\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"执业印章\""
+        "\"保护规划\"",
+        "\"地方人民政府\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"县级以上人民政府建设主管部门\""
+        "\"保护规划\"",
+        "\"历史文化名城名镇名村街区\""
       ],
       [
-        "\"二级注册建筑师\"",
-        "\"注册建筑师考试\""
+        "\"保护规划\"",
+        "\"城乡规划法\""
       ],
       [
-        "\"二级注册建筑师执业资格证书\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
+        "\"保护规划\"",
+        "\"历史建筑\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"建设部执业资格注册中心\""
+        "\"保护规划\"",
+        "\"历史文化名城名镇名村保护条例\""
       ],
       [
-        "\"人事主管部门\"",
-        "\"全国注册建筑师管理委员会\""
+        "\"保护规划\"",
+        "\"历史文化名村\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
+        "\"住房和城乡建设部\"",
+        "\"保护规划\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册建筑师\""
+        "\"保护规划\"",
+        "\"听证\""
       ],
       [
-        "\"全国注册建筑师管理委员会\"",
-        "\"建筑设计专家\""
-      ],
-      [
-        "\"一级注册建筑师执业资格证书\"",
-        "\"全国注册建筑师管理委员会\""
-      ],
-      [
-        "\"一级注册建筑师\"",
-        "\"注册建筑师考试\""
-      ],
-      [
-        "\"二级注册建筑师\"",
-        "\"省、自治区、直辖市注册建筑师管理委员会\""
-      ],
-      [
-        "\"县级以上人民政府人事主管部门\"",
-        "\"县级以上人民政府建设主管部门\""
+        "\"历史建筑\"",
+        "\"紫线\""
       ]
     ],
     "nodes": [
-      "\"建设部执业资格注册中心\"",
-      "\"一级注册建筑师\"",
-      "\"二级注册建筑师\"",
-      "\"注册建筑师考试\"",
-      "\"一级注册建筑师执业资格证书\"",
-      "\"注册建筑师管理委员会\"",
-      "\"建筑设计专家\"",
-      "\"公示\"",
-      "\"省、自治区、直辖市注册建筑师管理委员会\"",
-      "\"全国注册建筑师管理委员会\"",
-      "\"二级注册建筑师执业资格证书\"",
-      "\"县级以上人民政府建设主管部门\"",
-      "\"注册证书\"",
-      "\"县级以上人民政府人事主管部门\""
+      "\"中华人民共和国住房和城乡建设部\"",
+      "\"历史文化名城名镇名村保护条例\"",
+      "\"地方人民政府\"",
+      "\"历史建筑\"",
+      "\"非物质文化遗产\"",
+      "\"历史文化名城名镇名村街区\"",
+      "\"听证\"",
+      "\"保护规划\"",
+      "\"住房和城乡建设部\"",
+      "\"城乡规划法\"",
+      "\"城乡规划\"",
+      "\"城乡规划编制单位\""
     ],
     "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0",
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-b2f82373ea218d877ff40910348ebfa4",
-      "chunk-4652fd273717f4654c4a70e263f376f9"
-    ],
-    "occurrence": 1.0,
-    "sub_communities": [
-      "8",
-      "7",
-      "6"
-    ]
-  },
-  "4": {
-    "report_string": "# 国务院建设主管部门 and Registered Architects Regulatory Framework\n\nThe community is centered around the 国务院建设主管部门, a key government department responsible for the supervision, registration, and regulation of registered architects nationwide. It collaborates with other government entities such as the 人事主管部门 and local construction authorities to ensure compliance with architectural standards and practices. The community's structure highlights a hierarchical governance model with the 国务院建设主管部门 at its core, overseeing various aspects of architect registration, professional activities, and enforcement of regulations.\n\n## Central Role of 国务院建设主管部门\n\nThe 国务院建设主管部门 is the central entity in this community, overseeing the registration, professional activities, and continuing education of registered architects. Its authority extends to issuing qualification certificates and imposing administrative penalties, highlighting its pivotal role in maintaining architectural standards and compliance.\n\n## Collaboration with 人事主管部门\n\nThe 人事主管部门 works closely with the 国务院建设主管部门 to supervise and guide the examination, registration, and practice of registered architects. This collaboration ensures a comprehensive approach to architect qualification and professional development, emphasizing the importance of inter-departmental cooperation in regulatory frameworks.\n\n## Local Construction Authorities' Supervision\n\n县级以上地方人民政府建设主管部门 plays a crucial role in supervising architect activities at the local level. Their responsibilities include monitoring professional practices and reporting relevant information to the registration authorities, ensuring that local practices align with national standards.\n\n## Regulatory Enforcement through 行政处罚\n\nThe 国务院建设主管部门 has the authority to impose 行政处罚 (administrative penalties) for regulatory violations. This enforcement mechanism is critical for maintaining discipline and adherence to architectural standards, deterring non-compliance through punitive measures.\n\n## Involvement of Higher Education Institutions\n\n高等学校（院） are involved in the community through their employment of qualified registered architects. The 国务院建设主管部门 collaborates with educational authorities to manage these practices, highlighting the intersection between education and professional standards in the architectural field.\n\n## Hierarchical Governance Model\n\nThe community operates under a hierarchical governance model, with the 国务院建设主管部门 at the top, followed by local construction authorities and other collaborating departments. This structure ensures unified supervision and regulation of architectural practices across different levels of government.",
-    "report_json": {
-      "title": "国务院建设主管部门 and Registered Architects Regulatory Framework",
-      "summary": "The community is centered around the 国务院建设主管部门, a key government department responsible for the supervision, registration, and regulation of registered architects nationwide. It collaborates with other government entities such as the 人事主管部门 and local construction authorities to ensure compliance with architectural standards and practices. The community's structure highlights a hierarchical governance model with the 国务院建设主管部门 at its core, overseeing various aspects of architect registration, professional activities, and enforcement of regulations.",
-      "rating": 7.5,
-      "rating_explanation": "The impact severity rating is high due to the central role of 国务院建设主管部门 in regulating architectural standards and practices, which affects national construction quality and safety.",
-      "findings": [
-        {
-          "summary": "Central Role of 国务院建设主管部门",
-          "explanation": "The 国务院建设主管部门 is the central entity in this community, overseeing the registration, professional activities, and continuing education of registered architects. Its authority extends to issuing qualification certificates and imposing administrative penalties, highlighting its pivotal role in maintaining architectural standards and compliance."
-        },
-        {
-          "summary": "Collaboration with 人事主管部门",
-          "explanation": "The 人事主管部门 works closely with the 国务院建设主管部门 to supervise and guide the examination, registration, and practice of registered architects. This collaboration ensures a comprehensive approach to architect qualification and professional development, emphasizing the importance of inter-departmental cooperation in regulatory frameworks."
-        },
-        {
-          "summary": "Local Construction Authorities' Supervision",
-          "explanation": "县级以上地方人民政府建设主管部门 plays a crucial role in supervising architect activities at the local level. Their responsibilities include monitoring professional practices and reporting relevant information to the registration authorities, ensuring that local practices align with national standards."
-        },
-        {
-          "summary": "Regulatory Enforcement through 行政处罚",
-          "explanation": "The 国务院建设主管部门 has the authority to impose 行政处罚 (administrative penalties) for regulatory violations. This enforcement mechanism is critical for maintaining discipline and adherence to architectural standards, deterring non-compliance through punitive measures."
-        },
-        {
-          "summary": "Involvement of Higher Education Institutions",
-          "explanation": "高等学校（院） are involved in the community through their employment of qualified registered architects. The 国务院建设主管部门 collaborates with educational authorities to manage these practices, highlighting the intersection between education and professional standards in the architectural field."
-        },
-        {
-          "summary": "Hierarchical Governance Model",
-          "explanation": "The community operates under a hierarchical governance model, with the 国务院建设主管部门 at the top, followed by local construction authorities and other collaborating departments. This structure ensures unified supervision and regulation of architectural practices across different levels of government."
-        }
-      ]
-    },
-    "level": 0,
-    "title": "Cluster 4",
-    "edges": [
-      [
-        "\"国务院建设主管部门\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"国务院建设主管部门\""
-      ],
-      [
-        "\"国务院\"",
-        "\"国务院建设主管部门\""
-      ],
-      [
-        "\"县级以上地方人民政府建设主管部门\"",
-        "\"国务院建设主管部门\""
-      ],
-      [
-        "\"国务院建设主管部门\"",
-        "\"高等学校（院）\""
-      ],
-      [
-        "\"人事主管部门\"",
-        "\"国务院建设主管部门\""
-      ],
-      [
-        "\"国务院建设主管部门\"",
-        "\"行政处罚\""
-      ],
-      [
-        "\"县级以上地方人民政府建设主管部门\"",
-        "\"注册机关\""
-      ],
-      [
-        "\"人事主管部门\"",
-        "\"全国注册建筑师管理委员会\""
-      ]
-    ],
-    "nodes": [
-      "\"行政处罚\"",
-      "\"县级以上地方人民政府建设主管部门\"",
-      "\"高等学校（院）\"",
-      "\"国务院\"",
-      "\"国务院建设主管部门\"",
-      "\"人事主管部门\""
-    ],
-    "chunk_ids": [
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-09855fcd7dd9dfc61037fa17ea3c5316",
-      "chunk-b2f82373ea218d877ff40910348ebfa4",
-      "chunk-4652fd273717f4654c4a70e263f376f9"
+      "chunk-30858b2032c732cdb0c2115d440d9426",
+      "chunk-b64bc27036fdc7e0a0d441459662e4f0",
+      "chunk-d408714eb40d708fb89f44340dacc187"
     ],
     "occurrence": 1.0,
     "sub_communities": []
   },
   "1": {
-    "report_string": "# Architect Registration Processes\n\nThe community revolves around the processes for architect registration, including initial registration, renewal registration (延续注册), and changes to registration details (变更注册). These processes are interconnected, with renewal registration being a central event that requires the submission of performance proofs (业绩证明), completion of continuing education (继续教育要求), and the submission of specific application forms. The community's structure highlights the importance of maintaining registered architect status through compliance with regulatory requirements.\n\n## Central role of renewal registration (延续注册)\n\nRenewal registration (延续注册) is a pivotal event in the community, requiring architects to extend their registration before the expiration of their current registration period (注册有效期). This process is interconnected with several other events, including the submission of performance proofs (业绩证明), completion of continuing education (继续教育要求), and the submission of the renewal registration application form (延续注册申请表). The centrality of renewal registration underscores its importance in maintaining architects' legal practice status.\n\n## Interconnection between initial and renewal registration\n\nInitial registration (初始注册) and renewal registration (延续注册) are closely linked processes, with renewal registration following the expiration of the initial registration. This relationship highlights the lifecycle of an architect's registration status, from the initial application to the necessary renewals to continue practicing legally. The requirement for performance proofs (业绩证明) in both processes further emphasizes the continuity and standards expected in the profession.\n\n## Importance of performance proofs (业绩证明)\n\nPerformance proofs (业绩证明) are required for both initial and renewal registration applications, serving as a critical component in assessing an architect's professional competence. This requirement ensures that only qualified individuals maintain their registration status, thereby upholding the profession's standards and protecting public interest.\n\n## Mandatory continuing education (继续教育要求)\n\nContinuing education (继续教育要求) is a mandatory requirement for renewal registration (延续注册), ensuring that architects remain updated with the latest developments in their field. This requirement highlights the profession's emphasis on continuous learning and adaptation to maintain high standards of practice.\n\n## Process for changing registration details (变更注册)\n\nThe process for changing registration details (变更注册) is another critical event within the community, allowing architects to update their registration information, such as changing their employing unit. This process can be interconnected with renewal registration if the original registration period is nearing expiration, illustrating the flexibility and considerations within the registration framework to accommodate changes in architects' professional circumstances.",
+    "report_string": "# Historical and Cultural Sites Protection Community\n\nThe community is centered around the protection and planning of historical and cultural sites in China, involving key entities such as the State Council's urban and rural planning authority, historical and cultural cities, towns, and villages, and the cultural relics authority. These entities are interconnected through regulatory and collaborative relationships focused on the approval, modification, and protection of these sites.\n\n## Central role of the State Council's urban and rural planning authority\n\nThe State Council's urban and rural planning authority is pivotal in this community, responsible for reviewing and approving protection plans for historical and cultural cities, towns, and villages. Its regulatory role ensures that these sites adhere to national standards, highlighting its importance in the preservation of China's cultural heritage.\n\n## Importance of historical and cultural cities\n\nHistorical and cultural cities are recognized for their significant heritage, requiring special protection plans. These cities are a focal point of the community, with their protection plans needing approval from the State Council's urban and rural planning authority, underscoring their national importance.\n\n## Protection of historical and cultural villages and towns\n\nDesignated historical and cultural villages and towns are subject to specific protection planning, with their plans also requiring approval from the State Council's urban and rural planning authority. This reflects the comprehensive approach to preserving China's diverse cultural heritage across urban and rural settings.\n\n## Collaboration between urban planning and cultural relics authorities\n\nThe State Council's urban and rural planning authority collaborates with the cultural relics authority in reviewing and archiving protection plans for historical cities. This partnership ensures a unified approach to preserving cultural heritage, combining urban planning with cultural preservation efforts.\n\n## Inclusion of cultural relic protection units in core areas\n\nCultural relic protection units must be included in the core protection areas of historical cities, indicating a layered approach to heritage preservation. This requirement ensures that significant relics are given priority in the protection planning process.\n\n## Regulatory framework for protection plans\n\nThe community operates within a strict regulatory framework, with protection plans for historical and cultural sites requiring approval and备案 from the State Council's urban and rural planning authority. This framework ensures that preservation efforts are standardized and legally compliant.",
     "report_json": {
-      "title": "Architect Registration Processes",
-      "summary": "The community revolves around the processes for architect registration, including initial registration, renewal registration (延续注册), and changes to registration details (变更注册). These processes are interconnected, with renewal registration being a central event that requires the submission of performance proofs (业绩证明), completion of continuing education (继续教育要求), and the submission of specific application forms. The community's structure highlights the importance of maintaining registered architect status through compliance with regulatory requirements.",
-      "rating": 6.0,
-      "rating_explanation": "The impact severity rating is moderately high due to the essential nature of these processes for architects' legal practice and the potential consequences of non-compliance.",
+      "title": "Historical and Cultural Sites Protection Community",
+      "summary": "The community is centered around the protection and planning of historical and cultural sites in China, involving key entities such as the State Council's urban and rural planning authority, historical and cultural cities, towns, and villages, and the cultural relics authority. These entities are interconnected through regulatory and collaborative relationships focused on the approval, modification, and protection of these sites.",
+      "rating": 7.5,
+      "rating_explanation": "The impact severity rating is high due to the national significance of preserving historical and cultural heritage and the regulatory oversight involved.",
       "findings": [
         {
-          "summary": "Central role of renewal registration (延续注册)",
-          "explanation": "Renewal registration (延续注册) is a pivotal event in the community, requiring architects to extend their registration before the expiration of their current registration period (注册有效期). This process is interconnected with several other events, including the submission of performance proofs (业绩证明), completion of continuing education (继续教育要求), and the submission of the renewal registration application form (延续注册申请表). The centrality of renewal registration underscores its importance in maintaining architects' legal practice status."
+          "summary": "Central role of the State Council's urban and rural planning authority",
+          "explanation": "The State Council's urban and rural planning authority is pivotal in this community, responsible for reviewing and approving protection plans for historical and cultural cities, towns, and villages. Its regulatory role ensures that these sites adhere to national standards, highlighting its importance in the preservation of China's cultural heritage."
         },
         {
-          "summary": "Interconnection between initial and renewal registration",
-          "explanation": "Initial registration (初始注册) and renewal registration (延续注册) are closely linked processes, with renewal registration following the expiration of the initial registration. This relationship highlights the lifecycle of an architect's registration status, from the initial application to the necessary renewals to continue practicing legally. The requirement for performance proofs (业绩证明) in both processes further emphasizes the continuity and standards expected in the profession."
+          "summary": "Importance of historical and cultural cities",
+          "explanation": "Historical and cultural cities are recognized for their significant heritage, requiring special protection plans. These cities are a focal point of the community, with their protection plans needing approval from the State Council's urban and rural planning authority, underscoring their national importance."
         },
         {
-          "summary": "Importance of performance proofs (业绩证明)",
-          "explanation": "Performance proofs (业绩证明) are required for both initial and renewal registration applications, serving as a critical component in assessing an architect's professional competence. This requirement ensures that only qualified individuals maintain their registration status, thereby upholding the profession's standards and protecting public interest."
+          "summary": "Protection of historical and cultural villages and towns",
+          "explanation": "Designated historical and cultural villages and towns are subject to specific protection planning, with their plans also requiring approval from the State Council's urban and rural planning authority. This reflects the comprehensive approach to preserving China's diverse cultural heritage across urban and rural settings."
         },
         {
-          "summary": "Mandatory continuing education (继续教育要求)",
-          "explanation": "Continuing education (继续教育要求) is a mandatory requirement for renewal registration (延续注册), ensuring that architects remain updated with the latest developments in their field. This requirement highlights the profession's emphasis on continuous learning and adaptation to maintain high standards of practice."
+          "summary": "Collaboration between urban planning and cultural relics authorities",
+          "explanation": "The State Council's urban and rural planning authority collaborates with the cultural relics authority in reviewing and archiving protection plans for historical cities. This partnership ensures a unified approach to preserving cultural heritage, combining urban planning with cultural preservation efforts."
         },
         {
-          "summary": "Process for changing registration details (变更注册)",
-          "explanation": "The process for changing registration details (变更注册) is another critical event within the community, allowing architects to update their registration information, such as changing their employing unit. This process can be interconnected with renewal registration if the original registration period is nearing expiration, illustrating the flexibility and considerations within the registration framework to accommodate changes in architects' professional circumstances."
+          "summary": "Inclusion of cultural relic protection units in core areas",
+          "explanation": "Cultural relic protection units must be included in the core protection areas of historical cities, indicating a layered approach to heritage preservation. This requirement ensures that significant relics are given priority in the protection planning process."
+        },
+        {
+          "summary": "Regulatory framework for protection plans",
+          "explanation": "The community operates within a strict regulatory framework, with protection plans for historical and cultural sites requiring approval and备案 from the State Council's urban and rural planning authority. This framework ensures that preservation efforts are standardized and legally compliant."
         }
       ]
     },
@@ -789,95 +173,78 @@
     "title": "Cluster 1",
     "edges": [
       [
-        "\"业绩证明\"",
-        "\"延续注册\""
+        "\"国务院城乡规划主管部门\"",
+        "\"国家历史文化名城\""
       ],
       [
-        "\"延续注册\"",
-        "\"继续教育\""
+        "\"中国历史文化名镇\"",
+        "\"国务院城乡规划主管部门\""
       ],
       [
-        "\"延续注册\"",
-        "\"延续注册申请表\""
+        "\"历史文化名城\"",
+        "\"国务院城乡规划主管部门\""
       ],
       [
-        "\"初始注册\"",
-        "\"延续注册\""
+        "\"保护规划\"",
+        "\"历史文化名城\""
       ],
       [
-        "\"延续注册\"",
-        "\"注册有效期\""
+        "\"中国历史文化名村\"",
+        "\"国务院城乡规划主管部门\""
       ],
       [
-        "\"变更注册\"",
-        "\"资质证书\""
+        "\"国务院城乡规划主管部门\"",
+        "\"国务院文物主管部门\""
       ],
       [
-        "\"初始注册\"",
-        "\"初始注册申请表\""
-      ],
-      [
-        "\"变更注册\"",
-        "\"延续注册\""
-      ],
-      [
-        "\"业绩证明\"",
-        "\"初始注册\""
-      ],
-      [
-        "\"延续注册\"",
-        "\"继续教育要求\""
+        "\"历史文化名城\"",
+        "\"文物保护单位\""
       ]
     ],
     "nodes": [
-      "\"初始注册申请表\"",
-      "\"继续教育要求\"",
-      "\"业绩证明\"",
-      "\"注册有效期\"",
-      "\"变更注册\"",
-      "\"初始注册\"",
-      "\"延续注册申请表\"",
-      "\"延续注册\""
+      "\"国务院文物主管部门\"",
+      "\"中国历史文化名村\"",
+      "\"国家历史文化名城\"",
+      "\"中国历史文化名镇\"",
+      "\"历史文化名城\"",
+      "\"国务院城乡规划主管部门\"",
+      "\"文物保护单位\""
     ],
     "chunk_ids": [
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-09855fcd7dd9dfc61037fa17ea3c5316",
-      "chunk-4652fd273717f4654c4a70e263f376f9"
+      "chunk-30858b2032c732cdb0c2115d440d9426",
+      "chunk-b64bc27036fdc7e0a0d441459662e4f0",
+      "chunk-d408714eb40d708fb89f44340dacc187"
     ],
-    "occurrence": 0.75,
+    "occurrence": 1.0,
     "sub_communities": []
   },
   "2": {
-    "report_string": "# Registered Architects and Employing Organizations in China\n\nThis community revolves around the regulation and employment of registered architects within China, involving key entities such as employing organizations (聘用单位), registration authorities (注册机关), and the architects themselves. The relationships highlight the legal and procedural frameworks governing the registration and employment of architects, emphasizing the importance of valid资质证书 (qualification certificates) and the geographical requirement for employment within China.\n\n## Central Role of Employing Organizations (聘用单位)\n\nEmploying organizations are pivotal in the community, serving as the legal employers of registered architects. They must possess valid资质证书 to legally employ architects, directly affecting the architects' ability to practice. The requirement for these organizations to be located within China underscores the geographical and legal boundaries of this professional practice.\n\n## Regulatory Oversight by Registration Authorities (注册机关)\n\nRegistration authorities handle all registration-related processes for architects, including renewals, changes, and cancellations. Their oversight ensures that architects and their employing organizations comply with legal standards, maintaining the integrity and safety of construction and design projects.\n\n## Importance of Qualification Certificates (资质证书)\n\nQualification certificates are essential for employing organizations to validate their eligibility to hire registered architects. These certificates are a prerequisite for the registration or change of registration of architects, highlighting their role in maintaining professional standards within the industry.\n\n## Geographical Constraints on Employment\n\nThe stipulation that employing organizations must be located within China for architects to qualify for registration introduces a geographical limitation to the practice. This ensures that architects are employed in environments where their professional activities can be adequately regulated and supervised.\n\n## Diverse Types of Employing Organizations\n\nThe community includes a wide range of organizations, from construction and design firms to consulting and planning agencies, that can serve as employing units for registered architects. This diversity reflects the broad applicability of architectural expertise across various sectors of the construction industry.\n\n## Legal and Procedural Framework for Architects\n\nThe relationships and requirements outlined demonstrate a comprehensive legal and procedural framework designed to regulate the employment and practice of registered architects. This framework ensures that only qualified professionals engage in architectural work, safeguarding the quality and safety of construction projects.",
+    "report_string": "# Historical and Cultural Protection Community\n\nThe community is centered around the protection and management of historical and cultural towns, villages, and blocks in China. Key entities include '历史文化名镇' (Historical and Cultural Towns), '历史文化名村' (Historical and Cultural Villages), and '历史文化街区' (Historical and Cultural Blocks), all of which are under the regulatory oversight of provincial-level urban and rural planning authorities. The community's structure is defined by the relationships between these entities and the regulatory frameworks that govern their protection, including the '紫线' (protection boundaries) and '控制性详细规划' (Regulatory Detailed Planning).\n\n## Regulatory Oversight by Provincial Authorities\n\nThe protection plans for historical and cultural towns, villages, and blocks are reviewed and approved by provincial-level urban and rural planning authorities. This indicates a centralized regulatory approach to preserving China's cultural heritage, ensuring that protection measures are standardized and enforced across different regions.\n\n## Importance of Protection Boundaries ('紫线')\n\nThe '紫线' or protection boundaries play a critical role in the preservation of historical and cultural areas and buildings. These boundaries are mandatory in urban planning, serving as a legal framework to prevent unauthorized modifications or demolition, thereby safeguarding the integrity of cultural heritage sites.\n\n## Role of County-Level Governments\n\nCounty-level people's governments are tasked with organizing the preparation of protection plans for historical and cultural towns and villages. This decentralized approach allows for tailored protection measures that consider the unique characteristics and needs of each locality, while still adhering to national standards.\n\n## Integration of Protection Plans with Urban Planning\n\nProtection plans for historical and cultural areas must align with '控制性详细规划' (Regulatory Detailed Planning), ensuring that preservation efforts are integrated into broader urban development strategies. This integration is crucial for balancing heritage conservation with modern urban growth.\n\n## Designation and Protection Timeline\n\nHistorical and cultural towns and villages must have their protection plans prepared within one year of their designation. This swift action underscores the importance placed on the immediate safeguarding of these sites to prevent any potential degradation or loss of cultural value.",
     "report_json": {
-      "title": "Registered Architects and Employing Organizations in China",
-      "summary": "This community revolves around the regulation and employment of registered architects within China, involving key entities such as employing organizations (聘用单位), registration authorities (注册机关), and the architects themselves. The relationships highlight the legal and procedural frameworks governing the registration and employment of architects, emphasizing the importance of valid资质证书 (qualification certificates) and the geographical requirement for employment within China.",
+      "title": "Historical and Cultural Protection Community",
+      "summary": "The community is centered around the protection and management of historical and cultural towns, villages, and blocks in China. Key entities include '历史文化名镇' (Historical and Cultural Towns), '历史文化名村' (Historical and Cultural Villages), and '历史文化街区' (Historical and Cultural Blocks), all of which are under the regulatory oversight of provincial-level urban and rural planning authorities. The community's structure is defined by the relationships between these entities and the regulatory frameworks that govern their protection, including the '紫线' (protection boundaries) and '控制性详细规划' (Regulatory Detailed Planning).",
       "rating": 7.5,
-      "rating_explanation": "The impact severity rating is high due to the critical role of registered architects in construction and design sectors, and the legal implications of non-compliance.",
+      "rating_explanation": "The impact severity rating is high due to the significant cultural and historical value of the entities involved and the strict regulatory measures in place for their protection.",
       "findings": [
         {
-          "summary": "Central Role of Employing Organizations (聘用单位)",
-          "explanation": "Employing organizations are pivotal in the community, serving as the legal employers of registered architects. They must possess valid资质证书 to legally employ architects, directly affecting the architects' ability to practice. The requirement for these organizations to be located within China underscores the geographical and legal boundaries of this professional practice."
+          "summary": "Regulatory Oversight by Provincial Authorities",
+          "explanation": "The protection plans for historical and cultural towns, villages, and blocks are reviewed and approved by provincial-level urban and rural planning authorities. This indicates a centralized regulatory approach to preserving China's cultural heritage, ensuring that protection measures are standardized and enforced across different regions."
         },
         {
-          "summary": "Regulatory Oversight by Registration Authorities (注册机关)",
-          "explanation": "Registration authorities handle all registration-related processes for architects, including renewals, changes, and cancellations. Their oversight ensures that architects and their employing organizations comply with legal standards, maintaining the integrity and safety of construction and design projects."
+          "summary": "Importance of Protection Boundaries ('紫线')",
+          "explanation": "The '紫线' or protection boundaries play a critical role in the preservation of historical and cultural areas and buildings. These boundaries are mandatory in urban planning, serving as a legal framework to prevent unauthorized modifications or demolition, thereby safeguarding the integrity of cultural heritage sites."
         },
         {
-          "summary": "Importance of Qualification Certificates (资质证书)",
-          "explanation": "Qualification certificates are essential for employing organizations to validate their eligibility to hire registered architects. These certificates are a prerequisite for the registration or change of registration of architects, highlighting their role in maintaining professional standards within the industry."
+          "summary": "Role of County-Level Governments",
+          "explanation": "County-level people's governments are tasked with organizing the preparation of protection plans for historical and cultural towns and villages. This decentralized approach allows for tailored protection measures that consider the unique characteristics and needs of each locality, while still adhering to national standards."
         },
         {
-          "summary": "Geographical Constraints on Employment",
-          "explanation": "The stipulation that employing organizations must be located within China for architects to qualify for registration introduces a geographical limitation to the practice. This ensures that architects are employed in environments where their professional activities can be adequately regulated and supervised."
+          "summary": "Integration of Protection Plans with Urban Planning",
+          "explanation": "Protection plans for historical and cultural areas must align with '控制性详细规划' (Regulatory Detailed Planning), ensuring that preservation efforts are integrated into broader urban development strategies. This integration is crucial for balancing heritage conservation with modern urban growth."
         },
         {
-          "summary": "Diverse Types of Employing Organizations",
-          "explanation": "The community includes a wide range of organizations, from construction and design firms to consulting and planning agencies, that can serve as employing units for registered architects. This diversity reflects the broad applicability of architectural expertise across various sectors of the construction industry."
-        },
-        {
-          "summary": "Legal and Procedural Framework for Architects",
-          "explanation": "The relationships and requirements outlined demonstrate a comprehensive legal and procedural framework designed to regulate the employment and practice of registered architects. This framework ensures that only qualified professionals engage in architectural work, safeguarding the quality and safety of construction projects."
+          "summary": "Designation and Protection Timeline",
+          "explanation": "Historical and cultural towns and villages must have their protection plans prepared within one year of their designation. This swift action underscores the importance placed on the immediate safeguarding of these sites to prevent any potential degradation or loss of cultural value."
         }
       ]
     },
@@ -885,204 +252,109 @@
     "title": "Cluster 2",
     "edges": [
       [
-        "\"建设工程勘察、设计、施工、监理、招标代理、造价咨询、施工图审查、城乡规划编制等单位\"",
-        "\"聘用单位\""
+        "\"历史文化街区\"",
+        "\"省、自治区、直辖市人民政府城乡规划主管部门\""
       ],
       [
-        "\"申请人\"",
-        "\"聘用单位\""
+        "\"保护规划\"",
+        "\"历史文化名镇\""
       ],
       [
-        "\"注册建筑师\"",
-        "\"注册机关\""
+        "\"历史文化名镇\"",
+        "\"县级人民政府\""
       ],
       [
-        "\"注册机关\"",
-        "\"聘用单位\""
+        "\"保护规划\"",
+        "\"历史文化名村\""
       ],
       [
-        "\"注册建筑师\"",
-        "\"聘用单位\""
+        "\"历史文化名镇\"",
+        "\"省、自治区、直辖市人民政府城乡规划主管部门\""
       ],
       [
-        "\"变更注册\"",
-        "\"资质证书\""
+        "\"历史文化名村\"",
+        "\"省、自治区、直辖市人民政府城乡规划主管部门\""
       ],
       [
-        "\"聘用单位\"",
-        "\"资质证书\""
+        "\"历史文化街区\"",
+        "\"紫线\""
       ],
       [
-        "\"县级以上地方人民政府建设主管部门\"",
-        "\"注册机关\""
+        "\"历史建筑\"",
+        "\"紫线\""
       ],
       [
-        "\"中华人民共和国境内\"",
-        "\"聘用单位\""
+        "\"历史文化街区\"",
+        "\"控制性详细规划\""
       ]
     ],
     "nodes": [
-      "\"申请人\"",
-      "\"资质证书\"",
-      "\"建设工程勘察、设计、施工、监理、招标代理、造价咨询、施工图审查、城乡规划编制等单位\"",
-      "\"聘用单位\"",
-      "\"注册机关\"",
-      "\"中华人民共和国境内\""
+      "\"历史文化名村\"",
+      "\"控制性详细规划\"",
+      "\"省、自治区、直辖市人民政府城乡规划主管部门\"",
+      "\"历史文化街区\"",
+      "\"历史文化名镇\"",
+      "\"紫线\"",
+      "\"县级人民政府\""
     ],
     "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0",
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-09855fcd7dd9dfc61037fa17ea3c5316"
+      "chunk-30858b2032c732cdb0c2115d440d9426",
+      "chunk-b64bc27036fdc7e0a0d441459662e4f0",
+      "chunk-d408714eb40d708fb89f44340dacc187"
     ],
-    "occurrence": 0.75,
+    "occurrence": 1.0,
     "sub_communities": []
   },
-  "5": {
-    "report_string": "# Registered Architects and Their Regulatory Ecosystem\n\nThe community centers around registered architects (注册建筑师) within the construction and design industry, governed by a comprehensive regulatory framework involving multiple organizations and events. Key entities include the National Registered Architects Management Committee (全国注册建筑师管理委员会), the State Council's construction and personnel departments, and various organizations like design and construction units that interact with registered architects. The community is characterized by strict registration, continuing education requirements, and the use of practicing seals (执业印章) for professional activities.\n\n## Central Role of Registered Architects\n\nRegistered architects (注册建筑师) are the focal point of this community, required to be registered and employed within the People's Republic of China to practice legally. Their activities are tightly regulated, emphasizing their importance in the construction and design industry. The stringent requirements for registration, including continuing education, highlight the profession's critical role in maintaining industry standards and safety.\n\n## Regulatory Oversight by National Committees\n\nThe National Registered Architects Management Committee (全国注册建筑师管理委员会) and the State Council's construction and personnel departments play pivotal roles in setting standards, issuing practicing seals, and overseeing the professional activities of registered architects. This regulatory framework ensures that architects adhere to national standards, contributing to the integrity and safety of construction projects.\n\n## Importance of Practicing Seals\n\nPracticing seals (执业印章) are issued to registered architects as proof of their legal practicing status. These seals are crucial for architects to carry out their professional activities, and their loss or damage necessitates replacement. The seals symbolize the architect's accountability and adherence to professional standards, underscoring their significance in the community.\n\n## Continuing Education Requirements\n\nRegistered architects are required to complete continuing education (继续教育), including both mandatory (必修课) and elective (选修课) courses, to maintain their registration. This requirement ensures that architects stay updated with the latest industry standards and practices, reinforcing the community's emphasis on professional development and compliance.\n\n## Employment by Qualified Organizations\n\nRegistered architects must be employed by organizations with the necessary qualifications (工程设计资质单位) to engage in professional design activities legally. This requirement ensures that architects work within a framework that upholds industry standards, further emphasizing the community's focus on compliance and quality in construction and design projects.\n\n## Role of Design and Construction Units\n\nDesign (设计单位) and construction (施工单位) units must employ registered architects and comply with their approved designs, respectively. These relationships highlight the collaborative nature of the community, where architects, design, and construction units work together to ensure project compliance and safety.\n\n## Supervision by监理单位\n\nSupervision organizations (监理单位) oversee projects designed by registered architects to ensure compliance and quality. This oversight mechanism is critical for maintaining the integrity of construction projects, illustrating the community's layered approach to regulation and quality assurance.\n\n## Process of注销注册\n\nThe注销注册 event involves the revocation of a registered architect's practicing资格 under specific circumstances. This process underscores the community's mechanisms for enforcing professional standards and accountability, ensuring that only qualified individuals engage in architectural practice.",
+  "3": {
+    "report_string": "# Urban and Rural Planning Authorities and Planning Permits\n\nThe community is centered around urban and rural planning authorities (城乡规划主管部门) and the planning permits (规划许可) they issue. These entities are interconnected through the enforcement of protection plans for historical and cultural sites and the issuance of construction permits that must comply with these regulations.\n\n## Central role of urban and rural planning authorities\n\nThe urban and rural planning authorities (城乡规划主管部门) are central to this community, responsible for enforcing protection plans for historical and cultural sites. Their authority in handling violations related to these sites underscores their importance in preserving cultural heritage and ensuring compliance with protection regulations.\n\n## Significance of planning permits\n\nPlanning permits (规划许可) are crucial for construction activities, serving as a mechanism to ensure that such activities comply with protection regulations for historical sites. The issuance of these permits by the planning authorities highlights the balance between development and preservation within the community.\n\n## Enforcement of protection plans\n\nThe enforcement of protection plans by the urban and rural planning authorities is a key aspect of their role. This enforcement ensures that historical and cultural sites are preserved, reflecting the community's commitment to safeguarding its heritage against potential threats from unauthorized construction or development.\n\n## Regulation of construction activities\n\nThe regulation of construction activities through the issuance of planning permits is a critical function of the planning authorities. This process ensures that all construction complies with the necessary protection regulations, thereby minimizing the risk of damage to historical and cultural sites.\n\n## Interconnection between entities\n\nThe relationship between the urban and rural planning authorities and the planning permits they issue illustrates the interconnected nature of this community. This relationship is foundational to the community's efforts to balance development needs with the preservation of historical and cultural heritage.",
     "report_json": {
-      "title": "Registered Architects and Their Regulatory Ecosystem",
-      "summary": "The community centers around registered architects (注册建筑师) within the construction and design industry, governed by a comprehensive regulatory framework involving multiple organizations and events. Key entities include the National Registered Architects Management Committee (全国注册建筑师管理委员会), the State Council's construction and personnel departments, and various organizations like design and construction units that interact with registered architects. The community is characterized by strict registration, continuing education requirements, and the use of practicing seals (执业印章) for professional activities.",
-      "rating": 7.5,
-      "rating_explanation": "The impact severity rating is high due to the critical role of registered architects in ensuring the safety and compliance of construction and design projects.",
+      "title": "Urban and Rural Planning Authorities and Planning Permits",
+      "summary": "The community is centered around urban and rural planning authorities (城乡规划主管部门) and the planning permits (规划许可) they issue. These entities are interconnected through the enforcement of protection plans for historical and cultural sites and the issuance of construction permits that must comply with these regulations.",
+      "rating": 6.0,
+      "rating_explanation": "The impact severity rating is moderately high due to the critical role of planning authorities in protecting historical and cultural sites through the regulation of construction activities.",
       "findings": [
         {
-          "summary": "Central Role of Registered Architects",
-          "explanation": "Registered architects (注册建筑师) are the focal point of this community, required to be registered and employed within the People's Republic of China to practice legally. Their activities are tightly regulated, emphasizing their importance in the construction and design industry. The stringent requirements for registration, including continuing education, highlight the profession's critical role in maintaining industry standards and safety."
+          "summary": "Central role of urban and rural planning authorities",
+          "explanation": "The urban and rural planning authorities (城乡规划主管部门) are central to this community, responsible for enforcing protection plans for historical and cultural sites. Their authority in handling violations related to these sites underscores their importance in preserving cultural heritage and ensuring compliance with protection regulations."
         },
         {
-          "summary": "Regulatory Oversight by National Committees",
-          "explanation": "The National Registered Architects Management Committee (全国注册建筑师管理委员会) and the State Council's construction and personnel departments play pivotal roles in setting standards, issuing practicing seals, and overseeing the professional activities of registered architects. This regulatory framework ensures that architects adhere to national standards, contributing to the integrity and safety of construction projects."
+          "summary": "Significance of planning permits",
+          "explanation": "Planning permits (规划许可) are crucial for construction activities, serving as a mechanism to ensure that such activities comply with protection regulations for historical sites. The issuance of these permits by the planning authorities highlights the balance between development and preservation within the community."
         },
         {
-          "summary": "Importance of Practicing Seals",
-          "explanation": "Practicing seals (执业印章) are issued to registered architects as proof of their legal practicing status. These seals are crucial for architects to carry out their professional activities, and their loss or damage necessitates replacement. The seals symbolize the architect's accountability and adherence to professional standards, underscoring their significance in the community."
+          "summary": "Enforcement of protection plans",
+          "explanation": "The enforcement of protection plans by the urban and rural planning authorities is a key aspect of their role. This enforcement ensures that historical and cultural sites are preserved, reflecting the community's commitment to safeguarding its heritage against potential threats from unauthorized construction or development."
         },
         {
-          "summary": "Continuing Education Requirements",
-          "explanation": "Registered architects are required to complete continuing education (继续教育), including both mandatory (必修课) and elective (选修课) courses, to maintain their registration. This requirement ensures that architects stay updated with the latest industry standards and practices, reinforcing the community's emphasis on professional development and compliance."
+          "summary": "Regulation of construction activities",
+          "explanation": "The regulation of construction activities through the issuance of planning permits is a critical function of the planning authorities. This process ensures that all construction complies with the necessary protection regulations, thereby minimizing the risk of damage to historical and cultural sites."
         },
         {
-          "summary": "Employment by Qualified Organizations",
-          "explanation": "Registered architects must be employed by organizations with the necessary qualifications (工程设计资质单位) to engage in professional design activities legally. This requirement ensures that architects work within a framework that upholds industry standards, further emphasizing the community's focus on compliance and quality in construction and design projects."
-        },
-        {
-          "summary": "Role of Design and Construction Units",
-          "explanation": "Design (设计单位) and construction (施工单位) units must employ registered architects and comply with their approved designs, respectively. These relationships highlight the collaborative nature of the community, where architects, design, and construction units work together to ensure project compliance and safety."
-        },
-        {
-          "summary": "Supervision by监理单位",
-          "explanation": "Supervision organizations (监理单位) oversee projects designed by registered architects to ensure compliance and quality. This oversight mechanism is critical for maintaining the integrity of construction projects, illustrating the community's layered approach to regulation and quality assurance."
-        },
-        {
-          "summary": "Process of注销注册",
-          "explanation": "The注销注册 event involves the revocation of a registered architect's practicing资格 under specific circumstances. This process underscores the community's mechanisms for enforcing professional standards and accountability, ensuring that only qualified individuals engage in architectural practice."
+          "summary": "Interconnection between entities",
+          "explanation": "The relationship between the urban and rural planning authorities and the planning permits they issue illustrates the interconnected nature of this community. This relationship is foundational to the community's efforts to balance development needs with the preservation of historical and cultural heritage."
         }
       ]
     },
     "level": 0,
-    "title": "Cluster 5",
+    "title": "Cluster 3",
     "edges": [
       [
-        "\"注册建筑师\"",
-        "\"继续教育\""
+        "\"保护规划\"",
+        "\"城乡规划主管部门\""
       ],
       [
-        "\"必修课\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"中华人民共和国\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"执业印章\"",
-        "\"注销注册\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"选修课\""
-      ],
-      [
-        "\"国务院建设主管部门\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"监理单位\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"执业印章\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"注册机关\""
-      ],
-      [
-        "\"执业印章\"",
-        "\"注册建筑师执业资格证书\""
-      ],
-      [
-        "\"执业印章\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"施工单位\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"国务院人事主管部门\"",
-        "\"注册建筑师执业资格证书\""
-      ],
-      [
-        "\"延续注册\"",
-        "\"继续教育\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"聘用单位\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"设计单位\""
-      ],
-      [
-        "\"全国注册建筑师管理委员会\"",
-        "\"注册建筑师\""
-      ],
-      [
-        "\"注册建筑师\"",
-        "\"注销注册\""
-      ],
-      [
-        "\"工程设计资质单位\"",
-        "\"注册建筑师\""
+        "\"城乡规划主管部门\"",
+        "\"规划许可\""
       ]
     ],
     "nodes": [
-      "\"注销注册\"",
-      "\"注册建筑师\"",
-      "\"监理单位\"",
-      "\"必修课\"",
-      "\"施工单位\"",
-      "\"注册建筑师执业资格证书\"",
-      "\"设计单位\"",
-      "\"工程设计资质单位\"",
-      "\"执业印章\"",
-      "\"选修课\"",
-      "\"国务院人事主管部门\"",
-      "\"继续教育\""
+      "\"规划许可\"",
+      "\"城乡规划主管部门\""
     ],
     "chunk_ids": [
-      "chunk-cbd1236197efba8c156e2f0e171783b0",
-      "chunk-4652fd273717f4654c4a70e263f376f9",
-      "chunk-28338494893396e62b5fdc05f12e1484",
-      "chunk-09855fcd7dd9dfc61037fa17ea3c5316"
+      "chunk-b64bc27036fdc7e0a0d441459662e4f0"
     ],
-    "occurrence": 1.0,
-    "sub_communities": [
-      "9",
-      "10"
-    ]
+    "occurrence": 0.3333333333333333,
+    "sub_communities": []
   }
 }

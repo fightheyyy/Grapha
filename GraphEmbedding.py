@@ -100,7 +100,7 @@ def query():
     )
     print(
         rag.query(
-            "书本的主题是什么？", param=QueryParam(mode="global")
+            "回填土层", param=QueryParam(mode="global")
         )
     )
 
@@ -108,7 +108,7 @@ def query():
 def insert():
     from time import time
 
-    with open("book.txt", encoding="utf-8-sig") as f:
+    with open("extracted_construction_info.txt", encoding="utf-8-sig") as f:
         FAKE_TEXT = f.read()
 
     remove_if_exist(f"{WORKING_DIR}/vdb_entities.json")
